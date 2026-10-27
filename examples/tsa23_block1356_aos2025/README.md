@@ -57,6 +57,14 @@ threshold.
 lead time, and caveats. The block is fully inside the AOS polygon; the label
 intersection is 10.23 ha.
 
+The event table also passed both consumers:
+
+```text
+femic.contracts.disturbance.validate_disturbance_event: 2/2 valid
+ws4 disturbance --events events.json --block-id 1356
+events: 2  years: 2018-2023  blocks: 1
+```
+
 ## Interpretation
 
 This pilot is evidence that the package can produce real `femic.disturbance.v1`
