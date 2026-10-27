@@ -1,0 +1,18 @@
+fresh-beast
+Copyright 2026 FRESH Lab
+
+This package calls the external Rbeast implementation of BEAST. Rbeast is
+distributed separately under GPL-2/GPL-3 and is not bundled here.
+
+BEAST reference:
+Zhao, K., Wulder, M. A., Hu, T., Bright, R., Wu, Q., Qin, H., Li, Y., Toman,
+E., Mallick, B., Zhang, X., & Brown, M. (2019). Detecting change-point, trend,
+and seasonality in satellite time series data to track abrupt changes and
+nonlinear dynamics: A Bayesian ensemble algorithm. Remote Sensing of
+Environment, 232, 111181. https://doi.org/10.1016/j.rse.2019.04.034
+
+NSR application reference:
+Brown, M. S., Coops, N. C., Mulverhill, C., & Achim, A. (2025). Detection of
+non-stand replacing disturbances (NSR) using Harmonized Landsat-Sentinel-2
+time series. ISPRS Journal of Photogrammetry and Remote Sensing, 220,
+264-276. https://doi.org/10.1016/j.isprsjprs.2024.12.014
