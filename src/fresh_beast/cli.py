@@ -97,8 +97,13 @@ def _detect(args: argparse.Namespace) -> int:
         aoi_source=str(args.composites),
         block_source=str(args.blocks),
     )
+    wrote_events = (
+        f"wrote {paths['events']} ({len(events)} events)"
+        if "events" in paths
+        else "no events.json written (0 events)"
+    )
     print(
-        f"wrote {paths['events']} ({len(events)} events), {paths['result']}, "
+        f"{wrote_events}, {paths['result']}, "
         f"and {args.out_dir / 'annual_probability.csv'}"
     )
     return 0

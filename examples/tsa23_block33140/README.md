@@ -35,7 +35,7 @@ layer. The AOI is a 1 km window around block 33140 (9.62 ha).
 | Rbeast version | 1.0.2 |
 | Pixels with BEAST result | 840 / 840 |
 | Detection threshold | 0.5 negative changepoint probability |
-| Events | **0** |
+| Events | **0** (no `events.json` is written because WS4 rejects empty tables) |
 | Maximum negative probability inside block | 0.348 (2017) |
 
 The block contains 114 fully covered 30 m pixels. No pixel-year inside the
@@ -61,4 +61,5 @@ that BEAST cannot detect NSR elsewhere.
 
 See `result.json` for the exact method and caveat block, `hls_granules.json`
 for every granule id, and `annual_probability.csv` /
-`beast_pixels.csv` for the per-pixel diagnostics.
+`beast_pixels.csv` for the per-pixel diagnostics. An empty result is reported
+in `result.json` (`"events": []`) rather than as an invalid empty WS4 table.

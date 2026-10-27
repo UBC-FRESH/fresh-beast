@@ -78,7 +78,7 @@ Outputs:
 | `hls_composites.npz` | 16-day NBR array, observation counts, dates, CRS/transform, AOI |
 | `hls_granules.json` | exact HLS granule ids, acquisition times, collection ids |
 | `beast_pixels.csv` | per-pixel BEAST changepoint probabilities and NBR step |
-| `events.json` | `femic.disturbance.v1` event table |
+| `events.json` | `femic.disturbance.v1` event table, written only when at least one event exists |
 | `result.json` | `fresh.beast.v1` method, provenance, summary, and caveats |
 | `annual_probability.csv` | annual maximum negative changepoint probability per pixel |
 

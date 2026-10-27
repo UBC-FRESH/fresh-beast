@@ -258,9 +258,13 @@ def write_outputs(
     out_dir.mkdir(parents=True, exist_ok=True)
     events_path = out_dir / "events.json"
     result_path = out_dir / "result.json"
-    write_json(events_path, {"events": events})
+    paths: dict[str, Path] = {}
+    if events:
+        write_json(events_path, {"events": events})
+        paths["events"] = events_path
     write_json(
         result_path,
         build_result(output, events, aoi_source=aoi_source, block_source=block_source),
     )
-    return {"events": events_path, "result": result_path}
+    paths["result"] = result_path
+    return paths
