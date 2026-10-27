@@ -1,0 +1,5571 @@
+{
+  "band_pairs": [
+    [
+      "B05",
+      "B07"
+    ],
+    [
+      "B8A",
+      "B12"
+    ]
+  ],
+  "bbox_wgs84": [
+    -121.47705396020223,
+    51.492802825635046,
+    -121.45305396020223,
+    51.51080282563505
+  ],
+  "composite_days": 16,
+  "end_inclusive": "2020-12-31",
+  "granules": [
+    {
+      "beginning_utc": "2013-04-14T18:56:16.685000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013104T185616.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.587198257446289
+    },
+    {
+      "beginning_utc": "2013-04-14T18:56:16.685000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013104T185616.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.16000938415527
+    },
+    {
+      "beginning_utc": "2013-04-21T19:02:01.417000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013111T190201.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.00681495666504
+    },
+    {
+      "beginning_utc": "2013-04-21T19:02:25.299000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013111T190225.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.40877151489258
+    },
+    {
+      "beginning_utc": "2013-04-30T18:56:14.412000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013120T185614.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.817992210388184
+    },
+    {
+      "beginning_utc": "2013-04-30T18:56:14.412000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013120T185614.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.95691871643066
+    },
+    {
+      "beginning_utc": "2013-05-16T18:56:26.688000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013136T185626.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.262798309326172
+    },
+    {
+      "beginning_utc": "2013-05-16T18:56:26.688000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013136T185626.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.19699573516846
+    },
+    {
+      "beginning_utc": "2013-06-08T19:02:39.755000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013159T190239.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 198.86375522613525
+    },
+    {
+      "beginning_utc": "2013-06-08T19:02:39.755000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013159T190239.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.33841037750244
+    },
+    {
+      "beginning_utc": "2013-06-17T18:56:24.518000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013168T185624.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.532502174377441
+    },
+    {
+      "beginning_utc": "2013-06-17T18:56:24.518000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013168T185624.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.67451572418213
+    },
+    {
+      "beginning_utc": "2013-06-24T19:02:10.466000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013175T190210.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.22205066680908
+    },
+    {
+      "beginning_utc": "2013-06-24T19:02:34.349000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013175T190234.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.34833908081055
+    },
+    {
+      "beginning_utc": "2013-07-03T18:56:26.385000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013184T185626.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.255674362182617
+    },
+    {
+      "beginning_utc": "2013-07-03T18:56:26.385000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013184T185626.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.9965944290161
+    },
+    {
+      "beginning_utc": "2013-07-10T19:02:13.951000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013191T190213.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.79510307312012
+    },
+    {
+      "beginning_utc": "2013-07-10T19:02:37.825000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013191T190237.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 192.81382369995117
+    },
+    {
+      "beginning_utc": "2013-07-19T18:56:25.252000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013200T185625.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.536937713623047
+    },
+    {
+      "beginning_utc": "2013-07-19T18:56:25.252000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013200T185625.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 156.02331829071045
+    },
+    {
+      "beginning_utc": "2013-07-26T19:02:13.399000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013207T190213.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 151.7277660369873
+    },
+    {
+      "beginning_utc": "2013-07-26T19:02:37.281000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013207T190237.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.4365587234497
+    },
+    {
+      "beginning_utc": "2013-08-04T18:56:28.111000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013216T185628.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.244265556335449
+    },
+    {
+      "beginning_utc": "2013-08-04T18:56:28.111000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013216T185628.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.2142457962036
+    },
+    {
+      "beginning_utc": "2013-08-11T19:02:14.902000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013223T190214.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.97871017456055
+    },
+    {
+      "beginning_utc": "2013-08-11T19:02:38.785000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013223T190238.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.60980892181396
+    },
+    {
+      "beginning_utc": "2013-08-20T18:56:29.343000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013232T185629.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.780981063842773
+    },
+    {
+      "beginning_utc": "2013-08-20T18:56:29.343000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013232T185629.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.58134365081787
+    },
+    {
+      "beginning_utc": "2013-08-27T19:02:17.257000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013239T190217.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.47808074951172
+    },
+    {
+      "beginning_utc": "2013-08-27T19:02:41.140000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013239T190241.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.05452632904053
+    },
+    {
+      "beginning_utc": "2013-09-05T18:56:29.317000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013248T185629.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.517256736755371
+    },
+    {
+      "beginning_utc": "2013-09-05T18:56:29.317000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013248T185629.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.6493787765503
+    },
+    {
+      "beginning_utc": "2013-09-12T19:02:14.046000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013255T190214.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 147.91953086853027
+    },
+    {
+      "beginning_utc": "2013-09-12T19:02:37.924000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013255T190237.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.8958444595337
+    },
+    {
+      "beginning_utc": "2013-09-21T18:56:22.651000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013264T185622.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.412657737731934
+    },
+    {
+      "beginning_utc": "2013-09-21T18:56:22.651000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013264T185622.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.86967658996582
+    },
+    {
+      "beginning_utc": "2013-09-28T19:02:06.683000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013271T190206.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 154.09243392944336
+    },
+    {
+      "beginning_utc": "2013-09-28T19:02:30.566000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013271T190230.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.37031078338623
+    },
+    {
+      "beginning_utc": "2013-10-07T18:56:20.846000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013280T185620.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.167254447937012
+    },
+    {
+      "beginning_utc": "2013-10-07T18:56:20.846000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013280T185620.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.24812507629395
+    },
+    {
+      "beginning_utc": "2013-10-14T19:02:06.477000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013287T190206.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 154.86242866516113
+    },
+    {
+      "beginning_utc": "2013-10-14T19:02:30.360000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013287T190230.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.03481483459473
+    },
+    {
+      "beginning_utc": "2013-10-23T18:56:14.370000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013296T185614.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.58259391784668
+    },
+    {
+      "beginning_utc": "2013-10-23T18:56:14.370000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013296T185614.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.35285186767578
+    },
+    {
+      "beginning_utc": "2013-10-30T19:01:58.048000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013303T190158.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.60479164123535
+    },
+    {
+      "beginning_utc": "2013-10-30T19:02:21.930000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013303T190221.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.12774085998535
+    },
+    {
+      "beginning_utc": "2013-11-08T18:56:12.235000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013312T185612.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.917951583862305
+    },
+    {
+      "beginning_utc": "2013-11-08T18:56:12.235000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013312T185612.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.43286991119385
+    },
+    {
+      "beginning_utc": "2013-11-24T18:56:03.429000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013328T185603.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.497298240661621
+    },
+    {
+      "beginning_utc": "2013-11-24T18:56:03.429000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013328T185603.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.70619106292725
+    },
+    {
+      "beginning_utc": "2013-12-10T18:56:02.959000+00:00",
+      "native_id": "HLS.L30.T10UEC.2013344T185602.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 10.77219295501709
+    },
+    {
+      "beginning_utc": "2013-12-10T18:56:02.959000+00:00",
+      "native_id": "HLS.L30.T10UFC.2013344T185602.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.01831817626953
+    },
+    {
+      "beginning_utc": "2014-01-11T18:55:41.209000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014011T185541.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.575016021728516
+    },
+    {
+      "beginning_utc": "2014-01-11T18:55:41.209000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014011T185541.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.2027406692505
+    },
+    {
+      "beginning_utc": "2014-01-18T19:01:23.188000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014018T190123.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.71727657318115
+    },
+    {
+      "beginning_utc": "2014-01-18T19:01:47.075000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014018T190147.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.2971134185791
+    },
+    {
+      "beginning_utc": "2014-01-27T18:55:33.944000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014027T185533.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 10.822772026062012
+    },
+    {
+      "beginning_utc": "2014-01-27T18:55:33.944000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014027T185533.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.4815549850464
+    },
+    {
+      "beginning_utc": "2014-02-03T19:01:16.326000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014034T190116.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.85806941986084
+    },
+    {
+      "beginning_utc": "2014-02-03T19:01:40.204000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014034T190140.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 192.23499298095703
+    },
+    {
+      "beginning_utc": "2014-02-12T18:55:19.207000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014043T185519.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.33793830871582
+    },
+    {
+      "beginning_utc": "2014-02-12T18:55:19.207000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014043T185519.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 192.59551334381104
+    },
+    {
+      "beginning_utc": "2014-02-19T19:01:02.933000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014050T190102.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.04576301574707
+    },
+    {
+      "beginning_utc": "2014-02-19T19:01:26.807000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014050T190126.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 197.21555042266846
+    },
+    {
+      "beginning_utc": "2014-02-28T18:55:06.253000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014059T185506.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.499823570251465
+    },
+    {
+      "beginning_utc": "2014-02-28T18:55:06.253000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014059T185506.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.63507080078125
+    },
+    {
+      "beginning_utc": "2014-03-23T19:00:35.608000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014082T190035.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.14377880096436
+    },
+    {
+      "beginning_utc": "2014-03-23T19:00:59.482000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014082T190059.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 195.04341888427734
+    },
+    {
+      "beginning_utc": "2014-04-01T18:54:40.364000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014091T185440.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 10.773877143859863
+    },
+    {
+      "beginning_utc": "2014-04-01T18:54:40.364000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014091T185440.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.30746841430664
+    },
+    {
+      "beginning_utc": "2014-04-08T19:00:45.335000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014098T190045.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 197.1434555053711
+    },
+    {
+      "beginning_utc": "2014-04-08T19:00:45.335000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014098T190045.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.29680061340332
+    },
+    {
+      "beginning_utc": "2014-04-24T19:00:05.544000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014114T190005.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.6728687286377
+    },
+    {
+      "beginning_utc": "2014-04-24T19:00:29.422000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014114T190029.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 196.00263214111328
+    },
+    {
+      "beginning_utc": "2014-05-10T18:59:50.446000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014130T185950.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.5506534576416
+    },
+    {
+      "beginning_utc": "2014-05-10T19:00:14.320000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014130T190014.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.85448741912842
+    },
+    {
+      "beginning_utc": "2014-05-19T18:53:58.362000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014139T185358.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.0676469802856445
+    },
+    {
+      "beginning_utc": "2014-05-19T18:53:58.362000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014139T185358.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.45258045196533
+    },
+    {
+      "beginning_utc": "2014-05-26T18:59:46.624000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014146T185946.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.6894817352295
+    },
+    {
+      "beginning_utc": "2014-05-26T19:00:10.516000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014146T190010.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 189.75394439697266
+    },
+    {
+      "beginning_utc": "2014-06-04T18:54:05.935000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014155T185405.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.060803413391113
+    },
+    {
+      "beginning_utc": "2014-06-04T18:54:05.935000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014155T185405.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.4475450515747
+    },
+    {
+      "beginning_utc": "2014-06-11T18:59:56.049000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014162T185956.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.85760879516602
+    },
+    {
+      "beginning_utc": "2014-06-11T19:00:19.932000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014162T190019.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.54309749603271
+    },
+    {
+      "beginning_utc": "2014-06-20T18:54:10.365000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014171T185410.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.617259979248047
+    },
+    {
+      "beginning_utc": "2014-06-20T18:54:10.365000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014171T185410.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.00965976715088
+    },
+    {
+      "beginning_utc": "2014-06-27T19:00:21.520000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014178T190021.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.99599838256836
+    },
+    {
+      "beginning_utc": "2014-06-27T19:00:21.520000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014178T190021.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.83104610443115
+    },
+    {
+      "beginning_utc": "2014-07-06T18:54:17.164000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014187T185417.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.324108123779297
+    },
+    {
+      "beginning_utc": "2014-07-06T18:54:17.164000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014187T185417.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 160.14461421966553
+    },
+    {
+      "beginning_utc": "2014-07-13T19:00:06.428000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014194T190006.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 154.66603088378906
+    },
+    {
+      "beginning_utc": "2014-07-13T19:00:30.310000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014194T190030.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 165.23853015899658
+    },
+    {
+      "beginning_utc": "2014-07-22T18:54:20.020000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014203T185420.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.663032531738281
+    },
+    {
+      "beginning_utc": "2014-07-22T18:54:20.020000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014203T185420.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.43994522094727
+    },
+    {
+      "beginning_utc": "2014-07-29T19:00:10.865000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014210T190010.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 150.23036575317383
+    },
+    {
+      "beginning_utc": "2014-07-29T19:00:34.747000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014210T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.14163303375244
+    },
+    {
+      "beginning_utc": "2014-08-07T18:54:29.123000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014219T185429.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.575627326965332
+    },
+    {
+      "beginning_utc": "2014-08-07T18:54:29.123000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014219T185429.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 165.34869575500488
+    },
+    {
+      "beginning_utc": "2014-08-14T19:00:18.116000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014226T190018.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.67719650268555
+    },
+    {
+      "beginning_utc": "2014-08-14T19:00:41.998000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014226T190041.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.58232307434082
+    },
+    {
+      "beginning_utc": "2014-08-23T18:54:32.235000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014235T185432.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.440545082092285
+    },
+    {
+      "beginning_utc": "2014-08-23T18:54:32.235000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014235T185432.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 159.80480289459229
+    },
+    {
+      "beginning_utc": "2014-08-30T19:00:19.733000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014242T190019.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.24153327941895
+    },
+    {
+      "beginning_utc": "2014-08-30T19:00:43.616000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014242T190043.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 196.86512660980225
+    },
+    {
+      "beginning_utc": "2014-09-08T18:54:35.979000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014251T185435.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.497234344482422
+    },
+    {
+      "beginning_utc": "2014-09-08T18:54:35.979000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014251T185435.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.3101987838745
+    },
+    {
+      "beginning_utc": "2014-09-15T19:00:22.765000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014258T190022.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 151.3728437423706
+    },
+    {
+      "beginning_utc": "2014-09-15T19:00:46.639000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014258T190046.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 165.54036617279053
+    },
+    {
+      "beginning_utc": "2014-10-01T19:00:24.291000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014274T190024.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.8713207244873
+    },
+    {
+      "beginning_utc": "2014-10-01T19:00:48.178000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014274T190048.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.45025253295898
+    },
+    {
+      "beginning_utc": "2014-10-10T18:54:39.787000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014283T185439.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.636692047119141
+    },
+    {
+      "beginning_utc": "2014-10-10T18:54:39.787000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014283T185439.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.8148488998413
+    },
+    {
+      "beginning_utc": "2014-11-02T19:00:26.296000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014306T190026.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.0569953918457
+    },
+    {
+      "beginning_utc": "2014-11-02T19:00:50.183000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014306T190050.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.10769653320312
+    },
+    {
+      "beginning_utc": "2014-11-11T18:54:41.502000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014315T185441.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.846152305603027
+    },
+    {
+      "beginning_utc": "2014-11-11T18:54:41.502000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014315T185441.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 165.30091857910156
+    },
+    {
+      "beginning_utc": "2014-11-18T19:00:25.223000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014322T190025.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.33428192138672
+    },
+    {
+      "beginning_utc": "2014-11-18T19:00:49.097000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014322T190049.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.60453033447266
+    },
+    {
+      "beginning_utc": "2014-11-27T18:54:39.246000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014331T185439.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.238930702209473
+    },
+    {
+      "beginning_utc": "2014-11-27T18:54:39.246000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014331T185439.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.84308242797852
+    },
+    {
+      "beginning_utc": "2014-12-04T19:00:48.455000+00:00",
+      "native_id": "HLS.L30.T10UEC.2014338T190048.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.02991008758545
+    },
+    {
+      "beginning_utc": "2014-12-04T19:00:48.455000+00:00",
+      "native_id": "HLS.L30.T10UFC.2014338T190048.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.3993377685547
+    },
+    {
+      "beginning_utc": "2015-01-14T18:54:29.425000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015014T185429.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.182553291320801
+    },
+    {
+      "beginning_utc": "2015-01-14T18:54:29.425000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015014T185429.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.13361358642578
+    },
+    {
+      "beginning_utc": "2015-02-15T18:54:15.985000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015046T185415.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.530501365661621
+    },
+    {
+      "beginning_utc": "2015-02-15T18:54:15.985000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015046T185415.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.85705089569092
+    },
+    {
+      "beginning_utc": "2015-02-22T19:00:02.965000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015053T190002.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.38710594177246
+    },
+    {
+      "beginning_utc": "2015-02-22T19:00:26.848000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015053T190026.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.023455619812
+    },
+    {
+      "beginning_utc": "2015-03-10T18:59:52.852000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015069T185952.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.88233375549316
+    },
+    {
+      "beginning_utc": "2015-03-10T19:00:16.730000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015069T190016.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.05255317687988
+    },
+    {
+      "beginning_utc": "2015-03-26T19:00:08.493000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015085T190008.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.2845401763916
+    },
+    {
+      "beginning_utc": "2015-03-26T19:00:08.493000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015085T190008.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 165.28296852111816
+    },
+    {
+      "beginning_utc": "2015-04-04T18:53:50.163000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015094T185350.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.059300422668457
+    },
+    {
+      "beginning_utc": "2015-04-04T18:53:50.163000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015094T185350.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.61013984680176
+    },
+    {
+      "beginning_utc": "2015-04-11T18:59:37.210000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015101T185937.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.4864387512207
+    },
+    {
+      "beginning_utc": "2015-04-11T19:00:01.088000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015101T190001.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 200.79839324951172
+    },
+    {
+      "beginning_utc": "2015-04-20T18:53:49.626000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015110T185349.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 12.140625
+    },
+    {
+      "beginning_utc": "2015-04-20T18:53:49.626000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015110T185349.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.5506772994995
+    },
+    {
+      "beginning_utc": "2015-04-27T18:59:31.676000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015117T185931.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.33207988739014
+    },
+    {
+      "beginning_utc": "2015-04-27T18:59:55.550000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015117T185955.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.86195373535156
+    },
+    {
+      "beginning_utc": "2015-05-13T18:59:15.530000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015133T185915.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.71041107177734
+    },
+    {
+      "beginning_utc": "2015-05-13T18:59:39.404000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015133T185939.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 197.05464839935303
+    },
+    {
+      "beginning_utc": "2015-05-22T18:53:30.815000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015142T185330.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.604331016540527
+    },
+    {
+      "beginning_utc": "2015-05-22T18:53:30.815000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015142T185330.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.22926139831543
+    },
+    {
+      "beginning_utc": "2015-05-29T18:59:19.053000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015149T185919.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.8261947631836
+    },
+    {
+      "beginning_utc": "2015-05-29T18:59:42.944000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015149T185942.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.91784381866455
+    },
+    {
+      "beginning_utc": "2015-06-07T18:53:40.288000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015158T185340.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.486501693725586
+    },
+    {
+      "beginning_utc": "2015-06-07T18:53:40.288000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015158T185340.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.8032112121582
+    },
+    {
+      "beginning_utc": "2015-06-14T18:59:31.373000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015165T185931.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.0323314666748
+    },
+    {
+      "beginning_utc": "2015-06-14T18:59:55.260000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015165T185955.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.58460330963135
+    },
+    {
+      "beginning_utc": "2015-06-23T18:53:46.742000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015174T185346.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.353151321411133
+    },
+    {
+      "beginning_utc": "2015-06-23T18:53:46.742000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015174T185346.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.97746181488037
+    },
+    {
+      "beginning_utc": "2015-06-30T18:59:38.361000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015181T185938.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.19782638549805
+    },
+    {
+      "beginning_utc": "2015-06-30T19:00:02.243000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015181T190002.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 196.12049770355225
+    },
+    {
+      "beginning_utc": "2015-07-09T18:53:57.435000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015190T185357.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.54018497467041
+    },
+    {
+      "beginning_utc": "2015-07-09T18:53:57.435000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015190T185357.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 155.31218433380127
+    },
+    {
+      "beginning_utc": "2015-07-16T19:00:11.756000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015197T190011.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.4757537841797
+    },
+    {
+      "beginning_utc": "2015-07-16T19:00:11.756000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015197T190011.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.91151523590088
+    },
+    {
+      "beginning_utc": "2015-07-25T18:54:03.624000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015206T185403.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.9571027755737305
+    },
+    {
+      "beginning_utc": "2015-07-25T18:54:03.624000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015206T185403.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.41944885253906
+    },
+    {
+      "beginning_utc": "2015-08-01T18:59:51.628000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015213T185951.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 161.25743865966797
+    },
+    {
+      "beginning_utc": "2015-08-01T19:00:15.511000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015213T190015.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 169.26249504089355
+    },
+    {
+      "beginning_utc": "2015-08-10T18:54:07.504000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015222T185407.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.578551292419434
+    },
+    {
+      "beginning_utc": "2015-08-10T18:54:07.504000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015222T185407.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.1761350631714
+    },
+    {
+      "beginning_utc": "2015-08-17T18:59:58.342000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015229T185958.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.91375350952148
+    },
+    {
+      "beginning_utc": "2015-08-17T19:00:22.220000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015229T190022.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.21696186065674
+    },
+    {
+      "beginning_utc": "2015-08-26T18:54:14.883000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015238T185414.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.0023603439331055
+    },
+    {
+      "beginning_utc": "2015-08-26T18:54:14.883000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015238T185414.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 156.93489170074463
+    },
+    {
+      "beginning_utc": "2015-09-02T19:00:03.210000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015245T190003.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.4955539703369
+    },
+    {
+      "beginning_utc": "2015-09-02T19:00:27.092000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015245T190027.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 194.74686336517334
+    },
+    {
+      "beginning_utc": "2015-09-11T18:54:21.594000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015254T185421.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.148440361022949
+    },
+    {
+      "beginning_utc": "2015-09-11T18:54:21.594000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015254T185421.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 153.30457401275635
+    },
+    {
+      "beginning_utc": "2015-09-18T19:00:11.916000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015261T190011.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.43359184265137
+    },
+    {
+      "beginning_utc": "2015-09-18T19:00:35.799000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015261T190035.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.4160556793213
+    },
+    {
+      "beginning_utc": "2015-09-27T18:54:27.816000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015270T185427.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.206155776977539
+    },
+    {
+      "beginning_utc": "2015-09-27T18:54:27.816000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015270T185427.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.47731590270996
+    },
+    {
+      "beginning_utc": "2015-10-04T19:00:15.567000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015277T190015.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.68071269989014
+    },
+    {
+      "beginning_utc": "2015-10-04T19:00:39.454000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015277T190039.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.19860744476318
+    },
+    {
+      "beginning_utc": "2015-10-13T18:54:27.888000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015286T185427.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.0052642822265625
+    },
+    {
+      "beginning_utc": "2015-10-13T18:54:27.888000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015286T185427.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.86009693145752
+    },
+    {
+      "beginning_utc": "2015-10-20T19:00:17.590000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015293T190017.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.29980564117432
+    },
+    {
+      "beginning_utc": "2015-10-20T19:00:41.473000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015293T190041.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.23050594329834
+    },
+    {
+      "beginning_utc": "2015-10-29T18:54:33.843000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015302T185433.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.640438079833984
+    },
+    {
+      "beginning_utc": "2015-10-29T18:54:33.843000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015302T185433.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.28957176208496
+    },
+    {
+      "beginning_utc": "2015-11-05T19:00:21.376000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015309T190021.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.05556297302246
+    },
+    {
+      "beginning_utc": "2015-11-05T19:00:45.254000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015309T190045.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.5545530319214
+    },
+    {
+      "beginning_utc": "2015-11-14T18:54:34.181000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015318T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.990444183349609
+    },
+    {
+      "beginning_utc": "2015-11-14T18:54:34.181000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015318T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.3052453994751
+    },
+    {
+      "beginning_utc": "2015-11-21T19:00:47.093000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015325T190047.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.25193119049072
+    },
+    {
+      "beginning_utc": "2015-11-21T19:00:47.093000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015325T190047.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.3875207901001
+    },
+    {
+      "beginning_utc": "2015-12-07T19:00:45.817000+00:00",
+      "native_id": "HLS.L30.T10UEC.2015341T190045.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.0478572845459
+    },
+    {
+      "beginning_utc": "2015-12-07T19:00:45.817000+00:00",
+      "native_id": "HLS.L30.T10UFC.2015341T190045.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.24722576141357
+    },
+    {
+      "beginning_utc": "2015-12-23T19:23:56.580000+00:00",
+      "native_id": "HLS.S30.T10UFC.2015357T191822.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.87400150299072
+    },
+    {
+      "beginning_utc": "2016-01-08T19:00:42.106000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016008T190042.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.04461669921875
+    },
+    {
+      "beginning_utc": "2016-01-08T19:00:42.106000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016008T190042.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.27838039398193
+    },
+    {
+      "beginning_utc": "2016-01-24T19:00:19.274000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016024T190019.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.75183582305908
+    },
+    {
+      "beginning_utc": "2016-01-24T19:00:43.153000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016024T190043.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.35408115386963
+    },
+    {
+      "beginning_utc": "2016-02-02T18:54:30.142000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016033T185430.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.715608596801758
+    },
+    {
+      "beginning_utc": "2016-02-02T18:54:30.142000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016033T185430.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.6554832458496
+    },
+    {
+      "beginning_utc": "2016-02-09T19:00:14.013000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016040T190014.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 168.94314861297607
+    },
+    {
+      "beginning_utc": "2016-02-09T19:00:37.900000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016040T190037.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.42283630371094
+    },
+    {
+      "beginning_utc": "2016-02-25T19:00:08.228000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016056T190008.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.6040496826172
+    },
+    {
+      "beginning_utc": "2016-02-25T19:00:32.111000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016056T190032.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 192.72211074829102
+    },
+    {
+      "beginning_utc": "2016-03-05T18:54:20.572000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016065T185420.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.036489486694336
+    },
+    {
+      "beginning_utc": "2016-03-05T18:54:20.572000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016065T185420.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.53191947937012
+    },
+    {
+      "beginning_utc": "2016-03-12T19:00:05.407000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016072T190005.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.28865718841553
+    },
+    {
+      "beginning_utc": "2016-03-12T19:00:29.285000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016072T190029.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.02607917785645
+    },
+    {
+      "beginning_utc": "2016-03-21T18:54:13.783000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016081T185413.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.476871490478516
+    },
+    {
+      "beginning_utc": "2016-03-21T18:54:13.783000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016081T185413.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.93028259277344
+    },
+    {
+      "beginning_utc": "2016-03-22T19:17:13+00:00",
+      "native_id": "HLS.S30.T10UEC.2016082T191302.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.750319480896
+    },
+    {
+      "beginning_utc": "2016-03-22T19:17:13+00:00",
+      "native_id": "HLS.S30.T10UFC.2016082T191302.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.0491304397583
+    },
+    {
+      "beginning_utc": "2016-03-28T18:59:55.858000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016088T185955.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.21881484985352
+    },
+    {
+      "beginning_utc": "2016-03-28T19:00:19.736000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016088T190019.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.41979694366455
+    },
+    {
+      "beginning_utc": "2016-04-13T18:59:50.290000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016104T185950.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.27644443511963
+    },
+    {
+      "beginning_utc": "2016-04-13T19:00:14.169000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016104T190014.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.987229347229
+    },
+    {
+      "beginning_utc": "2016-04-21T19:17:04.530000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016112T191022.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 226.42034816741943
+    },
+    {
+      "beginning_utc": "2016-04-21T19:17:04.530000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016112T191022.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 227.80111122131348
+    },
+    {
+      "beginning_utc": "2016-04-22T18:53:59.006000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016113T185359.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.290533065795898
+    },
+    {
+      "beginning_utc": "2016-04-22T18:53:59.006000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016113T185359.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.8801555633545
+    },
+    {
+      "beginning_utc": "2016-04-29T18:59:49.725000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016120T185949.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.65014553070068
+    },
+    {
+      "beginning_utc": "2016-04-29T19:00:13.604000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016120T190013.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 194.9479169845581
+    },
+    {
+      "beginning_utc": "2016-05-08T18:54:01.860000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016129T185401.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.836783409118652
+    },
+    {
+      "beginning_utc": "2016-05-08T18:54:01.860000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016129T185401.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.20001029968262
+    },
+    {
+      "beginning_utc": "2016-05-15T18:59:47.722000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016136T185947.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.41485595703125
+    },
+    {
+      "beginning_utc": "2016-05-15T19:00:11.613000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016136T190011.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.3643341064453
+    },
+    {
+      "beginning_utc": "2016-05-21T19:19:39.990000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016142T190922.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.58868217468262
+    },
+    {
+      "beginning_utc": "2016-05-24T18:54:04.880000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016145T185404.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.331993103027344
+    },
+    {
+      "beginning_utc": "2016-05-24T18:54:04.880000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016145T185404.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.68073272705078
+    },
+    {
+      "beginning_utc": "2016-05-31T18:59:54.034000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016152T185954.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.02916049957275
+    },
+    {
+      "beginning_utc": "2016-05-31T19:00:17.917000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016152T190017.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 160.17312812805176
+    },
+    {
+      "beginning_utc": "2016-06-09T18:54:08.817000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016161T185408.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.9044084548950195
+    },
+    {
+      "beginning_utc": "2016-06-09T18:54:08.817000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016161T185408.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.90849781036377
+    },
+    {
+      "beginning_utc": "2016-06-10T19:19:45.210000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016162T190922.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.68964290618896
+    },
+    {
+      "beginning_utc": "2016-06-10T19:19:45.210000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016162T190922.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 233.19780158996582
+    },
+    {
+      "beginning_utc": "2016-06-16T19:00:20.172000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016168T190020.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 152.39967155456543
+    },
+    {
+      "beginning_utc": "2016-06-16T19:00:20.172000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016168T190020.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 169.35040473937988
+    },
+    {
+      "beginning_utc": "2016-06-25T18:54:15.242000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016177T185415.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.813767433166504
+    },
+    {
+      "beginning_utc": "2016-06-25T18:54:15.242000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016177T185415.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.74494075775146
+    },
+    {
+      "beginning_utc": "2016-06-30T19:17:29.720000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016182T190912.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.68549251556396
+    },
+    {
+      "beginning_utc": "2016-06-30T19:17:29.720000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016182T190912.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 234.58556652069092
+    },
+    {
+      "beginning_utc": "2016-07-02T19:00:06.062000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016184T190006.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.73626613616943
+    },
+    {
+      "beginning_utc": "2016-07-02T19:00:29.949000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016184T190029.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.44274139404297
+    },
+    {
+      "beginning_utc": "2016-07-18T19:00:12.705000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016200T190012.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.14517879486084
+    },
+    {
+      "beginning_utc": "2016-07-18T19:00:36.583000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016200T190036.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.4666872024536
+    },
+    {
+      "beginning_utc": "2016-07-20T19:16:55.640000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016202T190922.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 217.3792600631714
+    },
+    {
+      "beginning_utc": "2016-07-27T18:54:27.876000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016209T185427.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.5932416915893555
+    },
+    {
+      "beginning_utc": "2016-07-27T18:54:27.876000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016209T185427.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 155.58628177642822
+    },
+    {
+      "beginning_utc": "2016-08-03T19:00:15.846000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016216T190015.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 168.64141178131104
+    },
+    {
+      "beginning_utc": "2016-08-03T19:00:39.729000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016216T190039.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.7167148590088
+    },
+    {
+      "beginning_utc": "2016-08-09T19:18:29.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016222T190922.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.58226871490479
+    },
+    {
+      "beginning_utc": "2016-08-09T19:18:29.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016222T190922.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.01601314544678
+    },
+    {
+      "beginning_utc": "2016-08-12T18:54:29.959000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016225T185429.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.149645805358887
+    },
+    {
+      "beginning_utc": "2016-08-12T18:54:29.959000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016225T185429.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.11117267608643
+    },
+    {
+      "beginning_utc": "2016-08-19T19:00:20.586000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016232T190020.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 156.8206558227539
+    },
+    {
+      "beginning_utc": "2016-08-19T19:00:44.469000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016232T190044.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 165.17291164398193
+    },
+    {
+      "beginning_utc": "2016-08-28T18:54:37.442000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016241T185437.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.07044792175293
+    },
+    {
+      "beginning_utc": "2016-08-28T18:54:37.442000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016241T185437.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.95367431640625
+    },
+    {
+      "beginning_utc": "2016-08-29T19:15:58.530000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016242T190912.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.4074935913086
+    },
+    {
+      "beginning_utc": "2016-08-29T19:15:58.530000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016242T190912.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.0460443496704
+    },
+    {
+      "beginning_utc": "2016-09-04T19:00:26.592000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016248T190026.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.04417610168457
+    },
+    {
+      "beginning_utc": "2016-09-04T19:00:50.479000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016248T190050.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.1566686630249
+    },
+    {
+      "beginning_utc": "2016-09-13T18:54:41.254000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016257T185441.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.949923515319824
+    },
+    {
+      "beginning_utc": "2016-09-13T18:54:41.254000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016257T185441.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 152.39051914215088
+    },
+    {
+      "beginning_utc": "2016-09-18T19:12:14.250000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016262T191042.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.25486278533936
+    },
+    {
+      "beginning_utc": "2016-09-18T19:12:14.250000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016262T191042.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.00852012634277
+    },
+    {
+      "beginning_utc": "2016-09-20T19:00:28.595000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016264T190028.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.3613977432251
+    },
+    {
+      "beginning_utc": "2016-09-20T19:00:52.477000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016264T190052.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 189.22474479675293
+    },
+    {
+      "beginning_utc": "2016-09-29T18:54:41.134000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016273T185441.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.605866432189941
+    },
+    {
+      "beginning_utc": "2016-09-29T18:54:41.134000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016273T185441.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.69756603240967
+    },
+    {
+      "beginning_utc": "2016-10-06T19:00:55.246000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016280T190055.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 189.51390647888184
+    },
+    {
+      "beginning_utc": "2016-10-06T19:00:55.246000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016280T190055.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.22259616851807
+    },
+    {
+      "beginning_utc": "2016-10-15T18:54:47.330000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016289T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.9377851486206055
+    },
+    {
+      "beginning_utc": "2016-10-15T18:54:47.330000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016289T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.4085693359375
+    },
+    {
+      "beginning_utc": "2016-10-22T19:00:35.277000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016296T190035.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 161.73344039916992
+    },
+    {
+      "beginning_utc": "2016-10-22T19:00:59.151000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016296T190059.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.15514469146729
+    },
+    {
+      "beginning_utc": "2016-10-28T19:15:13.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016302T191512.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.4381809234619
+    },
+    {
+      "beginning_utc": "2016-10-28T19:15:13.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016302T191512.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 255.2848482131958
+    },
+    {
+      "beginning_utc": "2016-11-07T19:00:58.322000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016312T190058.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 196.4441270828247
+    },
+    {
+      "beginning_utc": "2016-11-07T19:00:58.322000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016312T190058.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.22219371795654
+    },
+    {
+      "beginning_utc": "2016-11-16T18:54:47.798000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016321T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.4536237716674805
+    },
+    {
+      "beginning_utc": "2016-11-16T18:54:47.798000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016321T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.69106483459473
+    },
+    {
+      "beginning_utc": "2016-11-23T19:00:34.946000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016328T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.9583559036255
+    },
+    {
+      "beginning_utc": "2016-11-23T19:00:58.828000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016328T190058.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.07574367523193
+    },
+    {
+      "beginning_utc": "2016-11-27T19:17:35.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016332T191732.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 249.95415210723877
+    },
+    {
+      "beginning_utc": "2016-11-27T19:17:35.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016332T191732.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.82358837127686
+    },
+    {
+      "beginning_utc": "2016-12-07T19:18:29.320000+00:00",
+      "native_id": "HLS.S30.T10UEC.2016342T191802.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.3879051208496
+    },
+    {
+      "beginning_utc": "2016-12-07T19:18:29.320000+00:00",
+      "native_id": "HLS.S30.T10UFC.2016342T191802.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.1856279373169
+    },
+    {
+      "beginning_utc": "2016-12-09T19:00:56.361000+00:00",
+      "native_id": "HLS.L30.T10UEC.2016344T190056.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 193.16869831085205
+    },
+    {
+      "beginning_utc": "2016-12-09T19:00:56.361000+00:00",
+      "native_id": "HLS.L30.T10UFC.2016344T190056.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.2571382522583
+    },
+    {
+      "beginning_utc": "2017-01-06T19:17:54.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017006T191751.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.2760705947876
+    },
+    {
+      "beginning_utc": "2017-01-10T19:00:49.127000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017010T190049.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.4143009185791
+    },
+    {
+      "beginning_utc": "2017-01-10T19:00:49.127000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017010T190049.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.4984016418457
+    },
+    {
+      "beginning_utc": "2017-01-26T19:00:19.658000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017026T190019.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.10409545898438
+    },
+    {
+      "beginning_utc": "2017-01-26T19:00:43.536000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017026T190043.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.40789890289307
+    },
+    {
+      "beginning_utc": "2017-01-26T19:16:44.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017026T191641.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.7169370651245
+    },
+    {
+      "beginning_utc": "2017-01-26T19:16:44.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017026T191641.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.15763187408447
+    },
+    {
+      "beginning_utc": "2017-02-04T18:54:28.076000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017035T185428.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.142451286315918
+    },
+    {
+      "beginning_utc": "2017-02-04T18:54:28.076000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017035T185428.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 169.40373706817627
+    },
+    {
+      "beginning_utc": "2017-02-11T19:00:11.629000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017042T190011.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.1985387802124
+    },
+    {
+      "beginning_utc": "2017-02-11T19:00:35.508000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017042T190035.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.5245943069458
+    },
+    {
+      "beginning_utc": "2017-02-15T19:16:31.470000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017046T191451.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.33188152313232
+    },
+    {
+      "beginning_utc": "2017-02-15T19:16:31.470000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017046T191451.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.86756801605225
+    },
+    {
+      "beginning_utc": "2017-02-20T18:54:22.187000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017051T185422.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.045287132263184
+    },
+    {
+      "beginning_utc": "2017-02-20T18:54:22.187000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017051T185422.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 189.47577571868896
+    },
+    {
+      "beginning_utc": "2017-02-27T19:00:06.445000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017058T190006.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.58653926849365
+    },
+    {
+      "beginning_utc": "2017-02-27T19:00:30.319000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017058T190030.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.93514347076416
+    },
+    {
+      "beginning_utc": "2017-03-08T18:54:14.919000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017067T185414.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.880167007446289
+    },
+    {
+      "beginning_utc": "2017-03-08T18:54:14.919000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017067T185414.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 189.68146800994873
+    },
+    {
+      "beginning_utc": "2017-03-15T18:59:57.554000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017074T185957.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 169.1928071975708
+    },
+    {
+      "beginning_utc": "2017-03-15T19:00:21.424000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017074T190021.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.80511283874512
+    },
+    {
+      "beginning_utc": "2017-03-31T18:59:49.220000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017090T185949.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.0951633453369
+    },
+    {
+      "beginning_utc": "2017-03-31T19:00:13.103000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017090T190013.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.27084255218506
+    },
+    {
+      "beginning_utc": "2017-04-09T18:53:58.031000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017099T185358.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.36210823059082
+    },
+    {
+      "beginning_utc": "2017-04-09T18:53:58.031000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017099T185358.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.20367622375488
+    },
+    {
+      "beginning_utc": "2017-04-16T18:59:40.930000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017106T185940.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.39193725585938
+    },
+    {
+      "beginning_utc": "2017-04-16T19:00:04.800000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017106T190004.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.50268745422363
+    },
+    {
+      "beginning_utc": "2017-04-25T18:53:47.777000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017115T185347.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.351207733154297
+    },
+    {
+      "beginning_utc": "2017-04-25T18:53:47.777000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017115T185347.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.17817974090576
+    },
+    {
+      "beginning_utc": "2017-04-26T19:17:04.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017116T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.74680423736572
+    },
+    {
+      "beginning_utc": "2017-04-26T19:17:04.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017116T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.55590438842773
+    },
+    {
+      "beginning_utc": "2017-05-02T18:59:30.534000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017122T185930.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.1408920288086
+    },
+    {
+      "beginning_utc": "2017-05-02T18:59:54.421000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017122T185954.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.9820909500122
+    },
+    {
+      "beginning_utc": "2017-05-16T19:17:05.470000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017136T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.00538444519043
+    },
+    {
+      "beginning_utc": "2017-05-18T18:59:42.747000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017138T185942.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.38165283203125
+    },
+    {
+      "beginning_utc": "2017-05-18T19:00:06.634000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017138T190006.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.95820426940918
+    },
+    {
+      "beginning_utc": "2017-05-27T18:54:01.433000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017147T185401.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.882669448852539
+    },
+    {
+      "beginning_utc": "2017-05-27T18:54:01.433000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017147T185401.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 161.12334632873535
+    },
+    {
+      "beginning_utc": "2017-06-03T18:59:51.952000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017154T185951.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.6652946472168
+    },
+    {
+      "beginning_utc": "2017-06-03T19:00:15.834000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017154T190015.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.65680599212646
+    },
+    {
+      "beginning_utc": "2017-06-05T19:15:34.270000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017156T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 213.85146617889404
+    },
+    {
+      "beginning_utc": "2017-06-12T18:54:08.910000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017163T185408.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.000518798828125
+    },
+    {
+      "beginning_utc": "2017-06-12T18:54:08.910000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017163T185408.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.58893489837646
+    },
+    {
+      "beginning_utc": "2017-06-19T19:00:22.129000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017170T190022.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.08239364624023
+    },
+    {
+      "beginning_utc": "2017-06-19T19:00:22.129000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017170T190022.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 161.43653869628906
+    },
+    {
+      "beginning_utc": "2017-06-25T19:18:41.480000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017176T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 211.81364059448242
+    },
+    {
+      "beginning_utc": "2017-06-25T19:18:41.480000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017176T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 217.50020027160645
+    },
+    {
+      "beginning_utc": "2017-06-28T18:54:13.703000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017179T185413.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.269482612609863
+    },
+    {
+      "beginning_utc": "2017-06-28T18:54:13.703000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017179T185413.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 168.6416072845459
+    },
+    {
+      "beginning_utc": "2017-07-05T19:00:01.943000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017186T190001.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 157.42792510986328
+    },
+    {
+      "beginning_utc": "2017-07-05T19:00:25.821000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017186T190025.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 168.60704803466797
+    },
+    {
+      "beginning_utc": "2017-07-10T19:17:45.760000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017191T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.78412437438965
+    },
+    {
+      "beginning_utc": "2017-07-10T19:17:45.760000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017191T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 212.3501434326172
+    },
+    {
+      "beginning_utc": "2017-07-14T18:54:16.610000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017195T185416.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.074446678161621
+    },
+    {
+      "beginning_utc": "2017-07-14T18:54:16.610000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017195T185416.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 153.59687042236328
+    },
+    {
+      "beginning_utc": "2017-07-15T19:15:15.230000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017196T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 216.42367267608643
+    },
+    {
+      "beginning_utc": "2017-07-15T19:15:15.230000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017196T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 216.99327182769775
+    },
+    {
+      "beginning_utc": "2017-07-21T19:00:07.391000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017202T190007.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.87855625152588
+    },
+    {
+      "beginning_utc": "2017-07-21T19:00:31.278000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017202T190031.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.34795379638672
+    },
+    {
+      "beginning_utc": "2017-07-30T18:54:24.723000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017211T185424.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.223546981811523
+    },
+    {
+      "beginning_utc": "2017-07-30T18:54:24.723000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017211T185424.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.12654399871826
+    },
+    {
+      "beginning_utc": "2017-07-30T19:16:21.780000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017211T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 222.61077404022217
+    },
+    {
+      "beginning_utc": "2017-07-30T19:16:21.780000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017211T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 236.6784029006958
+    },
+    {
+      "beginning_utc": "2017-08-04T19:16:50.030000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017216T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.46924877166748
+    },
+    {
+      "beginning_utc": "2017-08-06T19:00:14.492000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017218T190014.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 158.593355178833
+    },
+    {
+      "beginning_utc": "2017-08-06T19:00:38.379000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017218T190038.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 162.84045314788818
+    },
+    {
+      "beginning_utc": "2017-08-15T18:54:30.504000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017227T185430.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.608290672302246
+    },
+    {
+      "beginning_utc": "2017-08-15T18:54:30.504000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017227T185430.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.09413814544678
+    },
+    {
+      "beginning_utc": "2017-08-19T19:16:34.210000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017231T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.40396976470947
+    },
+    {
+      "beginning_utc": "2017-08-19T19:16:34.210000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017231T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.88952922821045
+    },
+    {
+      "beginning_utc": "2017-08-22T19:00:19.223000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017234T190019.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 152.75340747833252
+    },
+    {
+      "beginning_utc": "2017-08-22T19:00:43.110000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017234T190043.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.2500400543213
+    },
+    {
+      "beginning_utc": "2017-08-24T19:16:02.130000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017236T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.1450538635254
+    },
+    {
+      "beginning_utc": "2017-08-24T19:16:02.130000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017236T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.88252639770508
+    },
+    {
+      "beginning_utc": "2017-08-31T18:54:33.724000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017243T185433.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.115501403808594
+    },
+    {
+      "beginning_utc": "2017-08-31T18:54:33.724000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017243T185433.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.85777950286865
+    },
+    {
+      "beginning_utc": "2017-09-07T19:00:21.105000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017250T190021.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 141.39273166656494
+    },
+    {
+      "beginning_utc": "2017-09-07T19:00:44.988000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017250T190044.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.86790657043457
+    },
+    {
+      "beginning_utc": "2017-09-08T19:17:36.720000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017251T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.8731460571289
+    },
+    {
+      "beginning_utc": "2017-09-16T18:54:34.966000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017259T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.931323051452637
+    },
+    {
+      "beginning_utc": "2017-09-16T18:54:34.966000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017259T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 158.44807720184326
+    },
+    {
+      "beginning_utc": "2017-09-23T19:00:25.483000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017266T190025.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.49133014678955
+    },
+    {
+      "beginning_utc": "2017-09-23T19:00:49.362000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017266T190049.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.9470500946045
+    },
+    {
+      "beginning_utc": "2017-09-28T19:11:39.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017271T191139.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 206.60080909729004
+    },
+    {
+      "beginning_utc": "2017-09-28T19:19:53.720000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017271T191139.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 73.07211780548096
+    },
+    {
+      "beginning_utc": "2017-10-02T18:54:42.125000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017275T185442.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.832906723022461
+    },
+    {
+      "beginning_utc": "2017-10-02T18:54:42.125000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017275T185442.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 159.63197422027588
+    },
+    {
+      "beginning_utc": "2017-10-03T19:12:28.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017276T191231.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 209.19532871246338
+    },
+    {
+      "beginning_utc": "2017-10-03T19:20:06.640000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017276T191231.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 32.89533615112305
+    },
+    {
+      "beginning_utc": "2017-10-09T19:00:54.845000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017282T190054.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.68885135650635
+    },
+    {
+      "beginning_utc": "2017-10-09T19:00:54.845000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017282T190054.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.499924659729
+    },
+    {
+      "beginning_utc": "2017-10-25T19:00:32.709000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017298T190032.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.71510219573975
+    },
+    {
+      "beginning_utc": "2017-10-25T19:00:56.591000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017298T190056.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.9208345413208
+    },
+    {
+      "beginning_utc": "2017-11-03T18:54:45.064000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017307T185445.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.8204240798950195
+    },
+    {
+      "beginning_utc": "2017-11-03T18:54:45.064000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017307T185445.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.61223697662354
+    },
+    {
+      "beginning_utc": "2017-11-12T19:16:34.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017316T191631.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.3787078857422
+    },
+    {
+      "beginning_utc": "2017-11-17T19:16:45.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017321T191649.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.686185836792
+    },
+    {
+      "beginning_utc": "2017-11-17T19:16:45.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017321T191649.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.00758266448975
+    },
+    {
+      "beginning_utc": "2017-11-19T18:54:40.766000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017323T185440.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.074540138244629
+    },
+    {
+      "beginning_utc": "2017-11-19T18:54:40.766000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017323T185440.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.86047649383545
+    },
+    {
+      "beginning_utc": "2017-11-26T19:00:24.541000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017330T190024.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.13858795166016
+    },
+    {
+      "beginning_utc": "2017-11-26T19:00:48.428000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017330T190048.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.0829153060913
+    },
+    {
+      "beginning_utc": "2017-11-27T19:17:25.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017331T191729.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.85157680511475
+    },
+    {
+      "beginning_utc": "2017-11-27T19:17:25.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017331T191729.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.75529670715332
+    },
+    {
+      "beginning_utc": "2017-12-02T19:17:46.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017336T191751.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.70531368255615
+    },
+    {
+      "beginning_utc": "2017-12-05T18:54:36.338000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017339T185436.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.114240646362305
+    },
+    {
+      "beginning_utc": "2017-12-05T18:54:36.338000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017339T185436.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.54044914245605
+    },
+    {
+      "beginning_utc": "2017-12-07T19:17:51.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2017341T191749.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.9263153076172
+    },
+    {
+      "beginning_utc": "2017-12-07T19:17:51.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2017341T191749.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.49794387817383
+    },
+    {
+      "beginning_utc": "2017-12-12T19:00:47.928000+00:00",
+      "native_id": "HLS.L30.T10UEC.2017346T190047.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.58419036865234
+    },
+    {
+      "beginning_utc": "2017-12-12T19:00:47.928000+00:00",
+      "native_id": "HLS.L30.T10UFC.2017346T190047.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.37281322479248
+    },
+    {
+      "beginning_utc": "2018-01-06T18:54:34.566000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018006T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.218904495239258
+    },
+    {
+      "beginning_utc": "2018-01-06T18:54:34.566000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018006T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.86963939666748
+    },
+    {
+      "beginning_utc": "2018-01-06T19:17:53.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018006T191759.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.61946868896484
+    },
+    {
+      "beginning_utc": "2018-01-11T19:17:41.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018011T191741.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 228.23304843902588
+    },
+    {
+      "beginning_utc": "2018-01-11T19:17:41.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018011T191741.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.6846408843994
+    },
+    {
+      "beginning_utc": "2018-01-13T19:00:42.203000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018013T190042.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.27001094818115
+    },
+    {
+      "beginning_utc": "2018-01-13T19:00:42.203000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018013T190042.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.14229011535645
+    },
+    {
+      "beginning_utc": "2018-01-22T18:54:26.468000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018022T185426.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.031744003295898
+    },
+    {
+      "beginning_utc": "2018-01-22T18:54:26.468000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018022T185426.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 193.70740795135498
+    },
+    {
+      "beginning_utc": "2018-01-26T19:16:44.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018026T191649.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.32188606262207
+    },
+    {
+      "beginning_utc": "2018-01-26T19:16:44.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018026T191649.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.33563327789307
+    },
+    {
+      "beginning_utc": "2018-01-29T19:00:08.909000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018029T190008.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.46387004852295
+    },
+    {
+      "beginning_utc": "2018-01-29T19:00:32.788000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018029T190032.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.86045742034912
+    },
+    {
+      "beginning_utc": "2018-01-31T19:16:22.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018031T191621.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.64774131774902
+    },
+    {
+      "beginning_utc": "2018-01-31T19:16:22.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018031T191621.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.87655544281006
+    },
+    {
+      "beginning_utc": "2018-02-05T19:17:20.040000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018036T191559.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.6121482849121
+    },
+    {
+      "beginning_utc": "2018-02-10T19:16:15.960000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018041T191531.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.1838436126709
+    },
+    {
+      "beginning_utc": "2018-02-10T19:16:15.960000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018041T191531.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.08733940124512
+    },
+    {
+      "beginning_utc": "2018-02-14T19:00:26.970000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018045T190026.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.32592868804932
+    },
+    {
+      "beginning_utc": "2018-02-14T19:00:26.970000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018045T190026.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.33351612091064
+    },
+    {
+      "beginning_utc": "2018-02-15T19:16:54.120000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018046T191449.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.15845680236816
+    },
+    {
+      "beginning_utc": "2018-02-15T19:16:54.120000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018046T191449.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 251.8738307952881
+    },
+    {
+      "beginning_utc": "2018-02-20T19:14:20.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018051T191421.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 251.8081579208374
+    },
+    {
+      "beginning_utc": "2018-02-20T19:14:20.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018051T191421.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.12580394744873
+    },
+    {
+      "beginning_utc": "2018-02-25T19:13:41.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018056T191339.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.5553741455078
+    },
+    {
+      "beginning_utc": "2018-02-25T19:13:41.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018056T191339.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.76928234100342
+    },
+    {
+      "beginning_utc": "2018-03-07T19:12:28.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018066T191229.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.98187065124512
+    },
+    {
+      "beginning_utc": "2018-03-07T19:12:28.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018066T191229.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 252.5420379638672
+    },
+    {
+      "beginning_utc": "2018-03-11T18:54:03.630000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018070T185403.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.423778533935547
+    },
+    {
+      "beginning_utc": "2018-03-11T18:54:03.630000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018070T185403.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.1753330230713
+    },
+    {
+      "beginning_utc": "2018-03-12T19:15:02.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018071T191201.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.86257457733154
+    },
+    {
+      "beginning_utc": "2018-03-12T19:15:02.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018071T191201.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.15995502471924
+    },
+    {
+      "beginning_utc": "2018-03-17T19:11:12.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018076T191109.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 249.61020755767822
+    },
+    {
+      "beginning_utc": "2018-03-17T19:11:12.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018076T191109.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.32766437530518
+    },
+    {
+      "beginning_utc": "2018-03-18T18:59:47.036000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018077T185947.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.48487091064453
+    },
+    {
+      "beginning_utc": "2018-03-18T19:00:10.915000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018077T190010.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.08922004699707
+    },
+    {
+      "beginning_utc": "2018-03-22T19:11:27.140000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018081T191051.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.50715446472168
+    },
+    {
+      "beginning_utc": "2018-03-27T18:53:56.500000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018086T185356.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.951838493347168
+    },
+    {
+      "beginning_utc": "2018-03-27T18:53:56.500000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018086T185356.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.87586879730225
+    },
+    {
+      "beginning_utc": "2018-03-27T19:19:18.840000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018086T191009.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.54446697235107
+    },
+    {
+      "beginning_utc": "2018-04-03T18:59:40.055000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018093T185940.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.70452499389648
+    },
+    {
+      "beginning_utc": "2018-04-03T19:00:03.937000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018093T190003.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 193.12686157226562
+    },
+    {
+      "beginning_utc": "2018-04-06T19:13:23+00:00",
+      "native_id": "HLS.S30.T10UFC.2018096T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.99425411224365
+    },
+    {
+      "beginning_utc": "2018-04-11T19:15:45.840000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018101T190941.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.63951110839844
+    },
+    {
+      "beginning_utc": "2018-04-11T19:15:45.840000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018101T190941.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.90902137756348
+    },
+    {
+      "beginning_utc": "2018-04-12T18:53:48.011000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018102T185348.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.71548080444336
+    },
+    {
+      "beginning_utc": "2018-04-12T18:53:48.011000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018102T185348.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 158.63629341125488
+    },
+    {
+      "beginning_utc": "2018-04-19T18:59:30.393000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018109T185930.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.14029121398926
+    },
+    {
+      "beginning_utc": "2018-04-19T18:59:54.271000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018109T185954.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.30920124053955
+    },
+    {
+      "beginning_utc": "2018-04-21T19:18:05.790000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018111T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.56045627593994
+    },
+    {
+      "beginning_utc": "2018-04-21T19:18:05.790000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018111T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.2122163772583
+    },
+    {
+      "beginning_utc": "2018-04-26T19:17:23.120000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018116T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.20289134979248
+    },
+    {
+      "beginning_utc": "2018-04-26T19:17:23.120000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018116T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 233.73656940460205
+    },
+    {
+      "beginning_utc": "2018-04-28T18:53:38.951000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018118T185338.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.065472602844238
+    },
+    {
+      "beginning_utc": "2018-04-28T18:53:38.951000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018118T185338.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.14269351959229
+    },
+    {
+      "beginning_utc": "2018-05-01T19:19:36.990000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018121T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.37503814697266
+    },
+    {
+      "beginning_utc": "2018-05-01T19:19:36.990000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018121T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.47787952423096
+    },
+    {
+      "beginning_utc": "2018-05-05T18:59:21.803000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018125T185921.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.25132083892822
+    },
+    {
+      "beginning_utc": "2018-05-05T18:59:45.685000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018125T185945.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 192.86774921417236
+    },
+    {
+      "beginning_utc": "2018-05-06T19:10:26.360000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018126T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.21704578399658
+    },
+    {
+      "beginning_utc": "2018-05-06T19:10:26.360000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018126T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 229.53761291503906
+    },
+    {
+      "beginning_utc": "2018-05-11T19:18:06.800000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018131T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 218.7650146484375
+    },
+    {
+      "beginning_utc": "2018-05-11T19:18:06.800000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018131T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.44979286193848
+    },
+    {
+      "beginning_utc": "2018-05-14T18:53:28.827000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018134T185328.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 9.638300895690918
+    },
+    {
+      "beginning_utc": "2018-05-14T18:53:28.827000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018134T185328.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.5167942047119
+    },
+    {
+      "beginning_utc": "2018-05-16T19:16:49.650000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018136T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.53488063812256
+    },
+    {
+      "beginning_utc": "2018-05-16T19:16:49.650000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018136T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.27149105072021
+    },
+    {
+      "beginning_utc": "2018-05-21T18:59:10.390000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018141T185910.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.81218147277832
+    },
+    {
+      "beginning_utc": "2018-05-21T18:59:34.264000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018141T185934.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.32583808898926
+    },
+    {
+      "beginning_utc": "2018-05-21T19:17:00.860000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018141T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.36160850524902
+    },
+    {
+      "beginning_utc": "2018-05-21T19:17:00.860000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018141T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.1930332183838
+    },
+    {
+      "beginning_utc": "2018-05-30T18:53:15.856000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018150T185315.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 10.818877220153809
+    },
+    {
+      "beginning_utc": "2018-05-30T18:53:15.856000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018150T185315.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 196.7095193862915
+    },
+    {
+      "beginning_utc": "2018-05-31T19:14:55.330000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018151T190941.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.98865413665771
+    },
+    {
+      "beginning_utc": "2018-05-31T19:14:55.330000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018151T190941.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 226.9169807434082
+    },
+    {
+      "beginning_utc": "2018-06-06T18:59:01.618000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018157T185901.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.2088966369629
+    },
+    {
+      "beginning_utc": "2018-06-06T18:59:25.501000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018157T185925.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.8763723373413
+    },
+    {
+      "beginning_utc": "2018-06-10T19:18:29.050000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018161T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.0439624786377
+    },
+    {
+      "beginning_utc": "2018-06-10T19:18:29.050000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018161T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 226.4416379928589
+    },
+    {
+      "beginning_utc": "2018-06-15T18:53:21.296000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018166T185321.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.490053176879883
+    },
+    {
+      "beginning_utc": "2018-06-15T18:53:21.296000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018166T185321.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.79794788360596
+    },
+    {
+      "beginning_utc": "2018-06-15T19:11:35.760000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018166T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.40298175811768
+    },
+    {
+      "beginning_utc": "2018-06-15T19:11:35.760000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018166T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.82232284545898
+    },
+    {
+      "beginning_utc": "2018-06-20T19:10:22.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018171T191021.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 227.09053897857666
+    },
+    {
+      "beginning_utc": "2018-06-22T18:59:12.829000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018173T185912.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.84322357177734
+    },
+    {
+      "beginning_utc": "2018-06-22T18:59:36.716000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018173T185936.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 193.90509605407715
+    },
+    {
+      "beginning_utc": "2018-06-25T19:17:08.680000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018176T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 221.47743129730225
+    },
+    {
+      "beginning_utc": "2018-06-30T19:18:51.700000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018181T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.30554008483887
+    },
+    {
+      "beginning_utc": "2018-07-05T19:14:37.150000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018186T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.17507553100586
+    },
+    {
+      "beginning_utc": "2018-07-05T19:14:37.150000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018186T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 218.29116249084473
+    },
+    {
+      "beginning_utc": "2018-07-08T18:59:21.576000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018189T185921.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.2479419708252
+    },
+    {
+      "beginning_utc": "2018-07-08T18:59:45.467000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018189T185945.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.58030796051025
+    },
+    {
+      "beginning_utc": "2018-07-15T19:14:28.940000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018196T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 207.05490970611572
+    },
+    {
+      "beginning_utc": "2018-07-15T19:14:28.940000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018196T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 209.11099529266357
+    },
+    {
+      "beginning_utc": "2018-07-17T18:53:38.608000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018198T185338.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.063962936401367
+    },
+    {
+      "beginning_utc": "2018-07-17T18:53:38.608000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018198T185338.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 151.60579681396484
+    },
+    {
+      "beginning_utc": "2018-07-20T19:15:44.100000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018201T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.35431575775146
+    },
+    {
+      "beginning_utc": "2018-07-20T19:15:44.100000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018201T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.67451858520508
+    },
+    {
+      "beginning_utc": "2018-07-24T18:59:28.078000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018205T185928.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.60601902008057
+    },
+    {
+      "beginning_utc": "2018-07-24T18:59:51.965000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018205T185951.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.11414623260498
+    },
+    {
+      "beginning_utc": "2018-07-25T19:10:22.610000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018206T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 204.73219776153564
+    },
+    {
+      "beginning_utc": "2018-07-25T19:10:22.610000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018206T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 206.91986179351807
+    },
+    {
+      "beginning_utc": "2018-07-30T19:15:18.840000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018211T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 209.1414909362793
+    },
+    {
+      "beginning_utc": "2018-07-30T19:15:18.840000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018211T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 210.0790901184082
+    },
+    {
+      "beginning_utc": "2018-08-02T18:53:46.339000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018214T185346.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.224016189575195
+    },
+    {
+      "beginning_utc": "2018-08-02T18:53:46.339000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018214T185346.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.68800830841064
+    },
+    {
+      "beginning_utc": "2018-08-04T19:13:20.140000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018216T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.03918743133545
+    },
+    {
+      "beginning_utc": "2018-08-04T19:13:20.140000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018216T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.2532253265381
+    },
+    {
+      "beginning_utc": "2018-08-09T18:59:37.386000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018221T185937.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.90544509887695
+    },
+    {
+      "beginning_utc": "2018-08-09T19:00:01.272000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018221T190001.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.3166799545288
+    },
+    {
+      "beginning_utc": "2018-08-09T19:19:41.210000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018221T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 209.05372714996338
+    },
+    {
+      "beginning_utc": "2018-08-09T19:19:41.210000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018221T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 208.87256336212158
+    },
+    {
+      "beginning_utc": "2018-08-14T19:15:14.120000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018226T191009.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 210.97100925445557
+    },
+    {
+      "beginning_utc": "2018-08-18T18:53:55.147000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018230T185355.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.090056419372559
+    },
+    {
+      "beginning_utc": "2018-08-18T18:53:55.147000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018230T185355.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 152.35537910461426
+    },
+    {
+      "beginning_utc": "2018-08-19T19:14:37.160000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018231T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 204.99297618865967
+    },
+    {
+      "beginning_utc": "2018-08-19T19:14:37.160000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018231T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 205.1956148147583
+    },
+    {
+      "beginning_utc": "2018-08-24T19:16:58.070000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018236T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 218.59691429138184
+    },
+    {
+      "beginning_utc": "2018-08-24T19:16:58.070000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018236T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 227.78006172180176
+    },
+    {
+      "beginning_utc": "2018-09-03T18:54:01.622000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018246T185401.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.728137969970703
+    },
+    {
+      "beginning_utc": "2018-09-03T18:54:01.622000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018246T185401.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.46705055236816
+    },
+    {
+      "beginning_utc": "2018-09-03T19:19:24.990000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018246T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.6956729888916
+    },
+    {
+      "beginning_utc": "2018-09-03T19:19:24.990000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018246T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 255.3061866760254
+    },
+    {
+      "beginning_utc": "2018-09-08T19:09:37.270000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018251T190931.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.88685035705566
+    },
+    {
+      "beginning_utc": "2018-09-08T19:09:37.270000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018251T190931.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.05292987823486
+    },
+    {
+      "beginning_utc": "2018-09-10T19:00:14.561000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018253T190014.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.0754747390747
+    },
+    {
+      "beginning_utc": "2018-09-10T19:00:14.561000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018253T190014.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.64653205871582
+    },
+    {
+      "beginning_utc": "2018-09-13T19:13:07.670000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018256T190959.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 236.69696426391602
+    },
+    {
+      "beginning_utc": "2018-09-13T19:13:07.670000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018256T190959.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.3703908920288
+    },
+    {
+      "beginning_utc": "2018-09-18T19:12:07.650000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018261T191041.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.42965030670166
+    },
+    {
+      "beginning_utc": "2018-09-18T19:12:07.650000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018261T191041.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.70017623901367
+    },
+    {
+      "beginning_utc": "2018-09-19T18:54:05.759000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018262T185405.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.102725982666016
+    },
+    {
+      "beginning_utc": "2018-09-19T18:54:05.759000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018262T185405.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 158.1723279953003
+    },
+    {
+      "beginning_utc": "2018-09-23T19:15:57.080000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018266T191109.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 223.30450820922852
+    },
+    {
+      "beginning_utc": "2018-09-23T19:15:57.080000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018266T191109.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.80880737304688
+    },
+    {
+      "beginning_utc": "2018-09-26T18:59:56.378000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018269T185956.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 168.75341796875
+    },
+    {
+      "beginning_utc": "2018-09-26T19:00:20.257000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018269T190020.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.46178245544434
+    },
+    {
+      "beginning_utc": "2018-09-28T19:19:05+00:00",
+      "native_id": "HLS.S30.T10UEC.2018271T191151.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 207.15146446228027
+    },
+    {
+      "beginning_utc": "2018-09-28T19:19:05+00:00",
+      "native_id": "HLS.S30.T10UFC.2018271T191151.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 212.182373046875
+    },
+    {
+      "beginning_utc": "2018-10-05T18:54:13.955000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018278T185413.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.244346618652344
+    },
+    {
+      "beginning_utc": "2018-10-05T18:54:13.955000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018278T185413.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.74889755249023
+    },
+    {
+      "beginning_utc": "2018-10-12T19:00:27.754000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018285T190027.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.6412124633789
+    },
+    {
+      "beginning_utc": "2018-10-12T19:00:27.754000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018285T190027.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.1599817276001
+    },
+    {
+      "beginning_utc": "2018-10-13T19:13:33.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018286T191339.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.42239952087402
+    },
+    {
+      "beginning_utc": "2018-10-13T19:13:33.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018286T191339.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 229.1420383453369
+    },
+    {
+      "beginning_utc": "2018-10-18T19:14:06.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018291T191411.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.79812717437744
+    },
+    {
+      "beginning_utc": "2018-10-21T18:54:19.936000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018294T185419.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.5108232498168945
+    },
+    {
+      "beginning_utc": "2018-10-21T18:54:19.936000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018294T185419.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 158.40985584259033
+    },
+    {
+      "beginning_utc": "2018-10-23T19:15:26.360000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018296T191439.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 209.1946439743042
+    },
+    {
+      "beginning_utc": "2018-10-23T19:15:26.360000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018296T191439.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 210.0294771194458
+    },
+    {
+      "beginning_utc": "2018-10-28T19:00:08.634000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018301T190008.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.92898082733154
+    },
+    {
+      "beginning_utc": "2018-10-28T19:00:32.520000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018301T190032.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 189.8817377090454
+    },
+    {
+      "beginning_utc": "2018-10-28T19:15:10.460000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018301T191511.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.74290943145752
+    },
+    {
+      "beginning_utc": "2018-10-28T19:15:10.460000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018301T191511.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 234.6227970123291
+    },
+    {
+      "beginning_utc": "2018-11-02T19:15:40.450000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018306T191539.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 228.91660022735596
+    },
+    {
+      "beginning_utc": "2018-11-02T19:15:40.450000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018306T191539.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.91638469696045
+    },
+    {
+      "beginning_utc": "2018-11-07T19:20:07.060000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018311T191601.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 255.31882858276367
+    },
+    {
+      "beginning_utc": "2018-11-13T19:00:34.495000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018317T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.65843391418457
+    },
+    {
+      "beginning_utc": "2018-11-13T19:00:34.495000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018317T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 155.66751956939697
+    },
+    {
+      "beginning_utc": "2018-11-17T19:20:01.490000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018321T191651.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.99450588226318
+    },
+    {
+      "beginning_utc": "2018-11-17T19:20:05.400000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018321T191651.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.28782272338867
+    },
+    {
+      "beginning_utc": "2018-11-22T19:20:04.390000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018326T191719.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 249.9178819656372
+    },
+    {
+      "beginning_utc": "2018-11-22T19:20:08.310000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018326T191719.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 249.31909847259521
+    },
+    {
+      "beginning_utc": "2018-11-27T19:19:59.240000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018331T191731.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.29422760009766
+    },
+    {
+      "beginning_utc": "2018-11-27T19:20:03.150000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018331T191731.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 228.30670547485352
+    },
+    {
+      "beginning_utc": "2018-11-29T19:00:09.614000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018333T190009.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.61052703857422
+    },
+    {
+      "beginning_utc": "2018-11-29T19:00:33.497000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018333T190033.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.5484561920166
+    },
+    {
+      "beginning_utc": "2018-12-07T19:19:59.310000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018341T191751.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.25965023040771
+    },
+    {
+      "beginning_utc": "2018-12-07T19:20:03.230000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018341T191751.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 236.09714126586914
+    },
+    {
+      "beginning_utc": "2018-12-08T18:54:20.854000+00:00",
+      "native_id": "HLS.L30.T10UEC.2018342T185420.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.064505577087402
+    },
+    {
+      "beginning_utc": "2018-12-08T18:54:20.854000+00:00",
+      "native_id": "HLS.L30.T10UFC.2018342T185420.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.16622638702393
+    },
+    {
+      "beginning_utc": "2018-12-12T19:20:04.930000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018346T191809.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.684907913208
+    },
+    {
+      "beginning_utc": "2018-12-17T19:19:59.010000+00:00",
+      "native_id": "HLS.S30.T10UFC.2018351T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.95053958892822
+    },
+    {
+      "beginning_utc": "2018-12-17T19:20:02.930000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018351T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.8775177001953
+    },
+    {
+      "beginning_utc": "2018-12-27T19:20:04.700000+00:00",
+      "native_id": "HLS.S30.T10UEC.2018361T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.58321857452393
+    },
+    {
+      "beginning_utc": "2019-01-01T19:20:05.290000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019001T191809.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.01756286621094
+    },
+    {
+      "beginning_utc": "2019-01-16T19:00:04.271000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019016T190004.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.9247760772705
+    },
+    {
+      "beginning_utc": "2019-01-16T19:00:28.145000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019016T190028.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.01980209350586
+    },
+    {
+      "beginning_utc": "2019-01-16T19:20:03.770000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019016T191731.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 252.50122737884521
+    },
+    {
+      "beginning_utc": "2019-01-16T19:20:07.680000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019016T191731.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.1873664855957
+    },
+    {
+      "beginning_utc": "2019-01-21T19:20:07.660000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019021T191719.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.6796054840088
+    },
+    {
+      "beginning_utc": "2019-01-21T19:20:11.570000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019021T191719.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.15573120117188
+    },
+    {
+      "beginning_utc": "2019-01-25T18:54:14.902000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019025T185414.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.1088457107543945
+    },
+    {
+      "beginning_utc": "2019-01-25T18:54:14.902000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019025T185414.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.45097732543945
+    },
+    {
+      "beginning_utc": "2019-01-26T19:20:04.440000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019026T191651.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.53239727020264
+    },
+    {
+      "beginning_utc": "2019-02-01T19:00:24.362000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019032T190024.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.5056505203247
+    },
+    {
+      "beginning_utc": "2019-02-01T19:00:24.362000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019032T190024.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.76178169250488
+    },
+    {
+      "beginning_utc": "2019-02-05T19:20:04.590000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019036T191601.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.40568923950195
+    },
+    {
+      "beginning_utc": "2019-02-05T19:20:08.500000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019036T191601.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 229.98353385925293
+    },
+    {
+      "beginning_utc": "2019-02-10T18:54:12.730000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019041T185412.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.521188735961914
+    },
+    {
+      "beginning_utc": "2019-02-10T18:54:12.730000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019041T185412.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.75618267059326
+    },
+    {
+      "beginning_utc": "2019-02-10T19:20:07.790000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019041T191529.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 251.54959201812744
+    },
+    {
+      "beginning_utc": "2019-02-10T19:20:11.710000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019041T191529.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 251.81524562835693
+    },
+    {
+      "beginning_utc": "2019-02-17T18:59:58.443000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019048T185958.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.1114330291748
+    },
+    {
+      "beginning_utc": "2019-02-17T19:00:22.330000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019048T190022.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.4337615966797
+    },
+    {
+      "beginning_utc": "2019-02-20T19:20:07.060000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019051T191429.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 249.47064590454102
+    },
+    {
+      "beginning_utc": "2019-02-20T19:20:10.970000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019051T191429.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.51904964447021
+    },
+    {
+      "beginning_utc": "2019-02-25T19:20:07.122000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019056T191351.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.59464645385742
+    },
+    {
+      "beginning_utc": "2019-02-26T18:54:09.225000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019057T185409.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.712894439697266
+    },
+    {
+      "beginning_utc": "2019-02-26T18:54:09.225000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019057T185409.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.95201206207275
+    },
+    {
+      "beginning_utc": "2019-03-02T19:20:09.701000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019061T191319.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.323166847229
+    },
+    {
+      "beginning_utc": "2019-03-05T18:59:53.863000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019064T185953.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.48095035552979
+    },
+    {
+      "beginning_utc": "2019-03-05T19:00:17.746000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019064T190017.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.88552856445312
+    },
+    {
+      "beginning_utc": "2019-03-07T19:20:01.857000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019066T191231.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 236.2521104812622
+    },
+    {
+      "beginning_utc": "2019-03-12T19:20:04.922000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019071T191159.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 252.2292776107788
+    },
+    {
+      "beginning_utc": "2019-03-12T19:20:08.836000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019071T191159.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 254.19011974334717
+    },
+    {
+      "beginning_utc": "2019-03-14T18:54:03.259000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019073T185403.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.474678039550781
+    },
+    {
+      "beginning_utc": "2019-03-14T18:54:03.259000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019073T185403.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 169.8787136077881
+    },
+    {
+      "beginning_utc": "2019-03-17T19:20:04.726000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019076T191121.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.00366401672363
+    },
+    {
+      "beginning_utc": "2019-03-17T19:20:08.639000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019076T191121.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.9359016418457
+    },
+    {
+      "beginning_utc": "2019-03-21T18:59:49.287000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019080T185949.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.81690216064453
+    },
+    {
+      "beginning_utc": "2019-03-21T19:00:13.166000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019080T190013.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.94507789611816
+    },
+    {
+      "beginning_utc": "2019-03-22T19:20:07.680000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019081T191049.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.66014957427979
+    },
+    {
+      "beginning_utc": "2019-03-22T19:20:11.592000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019081T191049.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.7573642730713
+    },
+    {
+      "beginning_utc": "2019-03-27T19:20:07.089000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019086T191021.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.37524604797363
+    },
+    {
+      "beginning_utc": "2019-03-27T19:20:11.003000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019086T191021.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.7350559234619
+    },
+    {
+      "beginning_utc": "2019-03-30T18:54:00.456000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019089T185400.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.048818588256836
+    },
+    {
+      "beginning_utc": "2019-03-30T18:54:00.456000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019089T185400.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.15683269500732
+    },
+    {
+      "beginning_utc": "2019-04-01T19:20:10.233000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019091T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.88349723815918
+    },
+    {
+      "beginning_utc": "2019-04-01T19:20:14.148000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019091T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 221.56643676757812
+    },
+    {
+      "beginning_utc": "2019-04-06T18:59:45.417000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019096T185945.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.756609916687
+    },
+    {
+      "beginning_utc": "2019-04-06T19:00:09.291000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019096T190009.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.00138568878174
+    },
+    {
+      "beginning_utc": "2019-04-06T19:20:12.762000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019096T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 219.8818655014038
+    },
+    {
+      "beginning_utc": "2019-04-11T19:20:12.287000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019101T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.65233993530273
+    },
+    {
+      "beginning_utc": "2019-04-11T19:20:16.203000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019101T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 223.29482746124268
+    },
+    {
+      "beginning_utc": "2019-04-15T18:53:55.124000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019105T185355.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.473771095275879
+    },
+    {
+      "beginning_utc": "2019-04-15T18:53:55.124000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019105T185355.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.91427993774414
+    },
+    {
+      "beginning_utc": "2019-04-16T19:20:10.258000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019106T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.11785793304443
+    },
+    {
+      "beginning_utc": "2019-04-16T19:20:14.178000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019106T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 217.06002235412598
+    },
+    {
+      "beginning_utc": "2019-04-21T19:20:14.144000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019111T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.97810459136963
+    },
+    {
+      "beginning_utc": "2019-04-21T19:20:18.063000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019111T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 208.7711000442505
+    },
+    {
+      "beginning_utc": "2019-04-22T18:59:38.891000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019112T185938.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.28997421264648
+    },
+    {
+      "beginning_utc": "2019-04-22T19:00:02.765000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019112T190002.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.06739902496338
+    },
+    {
+      "beginning_utc": "2019-04-26T19:20:11.151000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019116T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.81439113616943
+    },
+    {
+      "beginning_utc": "2019-04-26T19:20:15.069000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019116T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.53025913238525
+    },
+    {
+      "beginning_utc": "2019-05-01T18:53:53.092000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019121T185353.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.976743698120117
+    },
+    {
+      "beginning_utc": "2019-05-01T18:53:53.092000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019121T185353.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.41544818878174
+    },
+    {
+      "beginning_utc": "2019-05-01T19:20:15.387000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019121T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.8434705734253
+    },
+    {
+      "beginning_utc": "2019-05-01T19:20:19.309000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019121T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 236.50412845611572
+    },
+    {
+      "beginning_utc": "2019-05-06T19:20:11.566000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019126T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 212.99875259399414
+    },
+    {
+      "beginning_utc": "2019-05-06T19:20:15.483000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019126T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 203.59149742126465
+    },
+    {
+      "beginning_utc": "2019-05-08T18:59:44.411000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019128T185944.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.5534963607788
+    },
+    {
+      "beginning_utc": "2019-05-08T19:00:08.293000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019128T190008.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.6464786529541
+    },
+    {
+      "beginning_utc": "2019-05-11T19:20:16.137000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019131T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 228.8790454864502
+    },
+    {
+      "beginning_utc": "2019-05-11T19:20:20.057000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019131T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 213.10003852844238
+    },
+    {
+      "beginning_utc": "2019-05-16T19:20:11.407000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019136T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.84742069244385
+    },
+    {
+      "beginning_utc": "2019-05-16T19:20:15.324000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019136T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.05429077148438
+    },
+    {
+      "beginning_utc": "2019-05-21T19:20:20.252000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019141T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.90948390960693
+    },
+    {
+      "beginning_utc": "2019-05-24T18:59:54.279000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019144T185954.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.46629905700684
+    },
+    {
+      "beginning_utc": "2019-05-24T19:00:18.166000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019144T190018.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.66484260559082
+    },
+    {
+      "beginning_utc": "2019-05-26T19:20:10.723000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019146T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 214.0261573791504
+    },
+    {
+      "beginning_utc": "2019-05-26T19:20:14.642000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019146T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 209.7834177017212
+    },
+    {
+      "beginning_utc": "2019-05-31T19:20:16.008000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019151T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 218.08530807495117
+    },
+    {
+      "beginning_utc": "2019-05-31T19:20:19.928000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019151T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 208.1327304840088
+    },
+    {
+      "beginning_utc": "2019-06-02T18:54:11.892000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019153T185411.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.859683036804199
+    },
+    {
+      "beginning_utc": "2019-06-02T18:54:11.892000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019153T185411.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.25362300872803
+    },
+    {
+      "beginning_utc": "2019-06-05T19:20:13.537000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019156T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.72242832183838
+    },
+    {
+      "beginning_utc": "2019-06-09T19:00:01.853000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019160T190001.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.22321128845215
+    },
+    {
+      "beginning_utc": "2019-06-09T19:00:25.740000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019160T190025.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.2956838607788
+    },
+    {
+      "beginning_utc": "2019-06-10T19:20:15.215000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019161T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 226.55838680267334
+    },
+    {
+      "beginning_utc": "2019-06-10T19:20:19.131000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019161T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 223.13534832000732
+    },
+    {
+      "beginning_utc": "2019-06-15T19:20:11.042000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019166T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.27877140045166
+    },
+    {
+      "beginning_utc": "2019-06-15T19:20:14.958000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019166T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 228.596453666687
+    },
+    {
+      "beginning_utc": "2019-06-18T18:54:18.221000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019169T185418.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.13720703125
+    },
+    {
+      "beginning_utc": "2019-06-18T18:54:18.221000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019169T185418.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.90734100341797
+    },
+    {
+      "beginning_utc": "2019-06-25T19:00:07.250000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019176T190007.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.38045406341553
+    },
+    {
+      "beginning_utc": "2019-06-25T19:00:31.137000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019176T190031.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 200.08803462982178
+    },
+    {
+      "beginning_utc": "2019-06-25T19:20:12.047000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019176T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.08725833892822
+    },
+    {
+      "beginning_utc": "2019-06-25T19:20:15.965000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019176T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.50518417358398
+    },
+    {
+      "beginning_utc": "2019-06-30T19:20:16.281000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019181T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.92172145843506
+    },
+    {
+      "beginning_utc": "2019-06-30T19:20:20.200000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019181T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.56511878967285
+    },
+    {
+      "beginning_utc": "2019-07-10T19:20:16.513000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019191T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.21181678771973
+    },
+    {
+      "beginning_utc": "2019-07-10T19:20:20.432000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019191T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.40875148773193
+    },
+    {
+      "beginning_utc": "2019-07-11T19:00:34.544000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019192T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.3933563232422
+    },
+    {
+      "beginning_utc": "2019-07-11T19:00:34.544000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019192T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.4540090560913
+    },
+    {
+      "beginning_utc": "2019-07-15T19:20:12.859000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019196T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.02376461029053
+    },
+    {
+      "beginning_utc": "2019-07-20T18:54:25.607000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019201T185425.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.400535583496094
+    },
+    {
+      "beginning_utc": "2019-07-20T18:54:25.607000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019201T185425.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 177.05272483825684
+    },
+    {
+      "beginning_utc": "2019-07-20T19:20:16.343000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019201T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.9048376083374
+    },
+    {
+      "beginning_utc": "2019-07-20T19:20:20.264000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019201T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.9945011138916
+    },
+    {
+      "beginning_utc": "2019-07-25T19:20:12.582000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019206T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.7437620162964
+    },
+    {
+      "beginning_utc": "2019-07-25T19:20:15.235000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019206T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 195.27508640289307
+    },
+    {
+      "beginning_utc": "2019-07-27T19:00:15.754000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019208T190015.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.51507377624512
+    },
+    {
+      "beginning_utc": "2019-07-27T19:00:39.636000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019208T190039.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.53268718719482
+    },
+    {
+      "beginning_utc": "2019-07-30T19:20:15.745000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019211T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.0392551422119
+    },
+    {
+      "beginning_utc": "2019-08-04T19:20:12.026000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019216T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 229.5415277481079
+    },
+    {
+      "beginning_utc": "2019-08-04T19:20:15.951000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019216T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 222.842755317688
+    },
+    {
+      "beginning_utc": "2019-08-05T18:54:32.452000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019217T185432.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.441061019897461
+    },
+    {
+      "beginning_utc": "2019-08-05T18:54:32.452000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019217T185432.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.19091033935547
+    },
+    {
+      "beginning_utc": "2019-08-09T19:20:14.734000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019221T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 208.32729148864746
+    },
+    {
+      "beginning_utc": "2019-08-09T19:20:18.653000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019221T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 209.33209323883057
+    },
+    {
+      "beginning_utc": "2019-08-12T19:00:21.748000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019224T190021.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.37265300750732
+    },
+    {
+      "beginning_utc": "2019-08-12T19:00:45.631000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019224T190045.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.3465518951416
+    },
+    {
+      "beginning_utc": "2019-08-14T19:20:10.986000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019226T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.7261152267456
+    },
+    {
+      "beginning_utc": "2019-08-14T19:20:14.907000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019226T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.00617694854736
+    },
+    {
+      "beginning_utc": "2019-08-19T19:20:13.354000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019231T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 234.94729137420654
+    },
+    {
+      "beginning_utc": "2019-08-19T19:20:17.273000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019231T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.18321800231934
+    },
+    {
+      "beginning_utc": "2019-08-21T18:54:37.320000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019233T185437.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.725872993469238
+    },
+    {
+      "beginning_utc": "2019-08-21T18:54:37.320000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019233T185437.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.26421737670898
+    },
+    {
+      "beginning_utc": "2019-08-24T19:20:09.520000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019236T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.60060596466064
+    },
+    {
+      "beginning_utc": "2019-08-24T19:20:13.440000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019236T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.6734447479248
+    },
+    {
+      "beginning_utc": "2019-08-28T19:00:25.782000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019240T190025.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 161.42431449890137
+    },
+    {
+      "beginning_utc": "2019-08-28T19:00:49.660000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019240T190049.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.62798500061035
+    },
+    {
+      "beginning_utc": "2019-08-29T19:20:11.549000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019241T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 206.67921447753906
+    },
+    {
+      "beginning_utc": "2019-08-29T19:20:15.467000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019241T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 205.57724380493164
+    },
+    {
+      "beginning_utc": "2019-09-03T19:20:07.671000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019246T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 213.20038223266602
+    },
+    {
+      "beginning_utc": "2019-09-03T19:20:11.592000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019246T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 212.8032693862915
+    },
+    {
+      "beginning_utc": "2019-09-06T18:54:40.566000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019249T185440.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.36677360534668
+    },
+    {
+      "beginning_utc": "2019-09-06T18:54:40.566000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019249T185440.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 150.93768787384033
+    },
+    {
+      "beginning_utc": "2019-09-13T19:00:30.375000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019256T190030.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.22782611846924
+    },
+    {
+      "beginning_utc": "2019-09-13T19:00:54.262000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019256T190054.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.10268783569336
+    },
+    {
+      "beginning_utc": "2019-09-13T19:20:06.359000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019256T191001.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.0495481491089
+    },
+    {
+      "beginning_utc": "2019-09-13T19:20:10.278000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019256T191001.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 233.6813611984253
+    },
+    {
+      "beginning_utc": "2019-09-18T19:20:06.684000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019261T191039.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.95341396331787
+    },
+    {
+      "beginning_utc": "2019-09-18T19:20:10.594000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019261T191039.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.9829511642456
+    },
+    {
+      "beginning_utc": "2019-09-28T19:20:07.955000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019271T191149.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 210.215651512146
+    },
+    {
+      "beginning_utc": "2019-09-28T19:20:11.868000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019271T191149.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 221.31943225860596
+    },
+    {
+      "beginning_utc": "2019-09-29T19:00:35.367000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019272T190035.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 169.41209506988525
+    },
+    {
+      "beginning_utc": "2019-09-29T19:00:59.254000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019272T190059.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.0224609375
+    },
+    {
+      "beginning_utc": "2019-10-08T18:54:50.183000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019281T185450.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.928637504577637
+    },
+    {
+      "beginning_utc": "2019-10-08T18:54:50.183000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019281T185450.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.25684547424316
+    },
+    {
+      "beginning_utc": "2019-10-08T19:20:02.147000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019281T191259.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.25083446502686
+    },
+    {
+      "beginning_utc": "2019-10-08T19:20:03.349000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019281T191259.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.2804937362671
+    },
+    {
+      "beginning_utc": "2019-10-15T19:01:01.846000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019288T190101.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.41823291778564
+    },
+    {
+      "beginning_utc": "2019-10-15T19:01:01.846000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019288T190101.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 158.64895343780518
+    },
+    {
+      "beginning_utc": "2019-10-18T19:20:12.815000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019291T191409.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 233.39781379699707
+    },
+    {
+      "beginning_utc": "2019-10-23T19:20:10.955000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019296T191441.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.8541717529297
+    },
+    {
+      "beginning_utc": "2019-10-24T18:54:51.339000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019297T185451.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.638571739196777
+    },
+    {
+      "beginning_utc": "2019-10-24T18:54:51.339000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019297T185451.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.404860496521
+    },
+    {
+      "beginning_utc": "2019-10-28T19:20:08.542000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019301T191509.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.93299674987793
+    },
+    {
+      "beginning_utc": "2019-10-28T19:20:12.456000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019301T191509.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.18076515197754
+    },
+    {
+      "beginning_utc": "2019-10-31T19:00:37.909000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019304T190037.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 165.06105995178223
+    },
+    {
+      "beginning_utc": "2019-10-31T19:01:01.787000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019304T190101.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.64186000823975
+    },
+    {
+      "beginning_utc": "2019-11-07T19:20:07.499000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019311T191609.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 213.652099609375
+    },
+    {
+      "beginning_utc": "2019-11-07T19:20:11.412000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019311T191609.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 212.49163341522217
+    },
+    {
+      "beginning_utc": "2019-11-12T19:20:13.784000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019316T191641.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.51920413970947
+    },
+    {
+      "beginning_utc": "2019-11-17T19:20:05.862000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019321T191659.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.6100664138794
+    },
+    {
+      "beginning_utc": "2019-11-17T19:20:09.778000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019321T191659.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 208.98572635650635
+    },
+    {
+      "beginning_utc": "2019-11-22T19:20:08.333000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019326T191721.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.0412950515747
+    },
+    {
+      "beginning_utc": "2019-11-22T19:20:12.257000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019326T191721.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.87857818603516
+    },
+    {
+      "beginning_utc": "2019-11-25T18:54:46.716000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019329T185446.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.235679626464844
+    },
+    {
+      "beginning_utc": "2019-11-25T18:54:46.716000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019329T185446.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.9596347808838
+    },
+    {
+      "beginning_utc": "2019-11-27T19:20:03.576000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019331T191729.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 229.49784564971924
+    },
+    {
+      "beginning_utc": "2019-11-27T19:20:07.488000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019331T191729.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 226.54192066192627
+    },
+    {
+      "beginning_utc": "2019-12-02T19:00:57.466000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019336T190057.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.85661220550537
+    },
+    {
+      "beginning_utc": "2019-12-02T19:00:57.466000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019336T190057.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.83970642089844
+    },
+    {
+      "beginning_utc": "2019-12-11T18:54:45.817000+00:00",
+      "native_id": "HLS.L30.T10UEC.2019345T185445.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.490878105163574
+    },
+    {
+      "beginning_utc": "2019-12-11T18:54:45.817000+00:00",
+      "native_id": "HLS.L30.T10UFC.2019345T185445.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.57287979125977
+    },
+    {
+      "beginning_utc": "2019-12-12T19:20:03.441000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019346T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.8581829071045
+    },
+    {
+      "beginning_utc": "2019-12-12T19:20:07.357000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019346T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.42712306976318
+    },
+    {
+      "beginning_utc": "2019-12-22T19:20:01.900000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019356T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.04479122161865
+    },
+    {
+      "beginning_utc": "2019-12-27T19:20:02.778000+00:00",
+      "native_id": "HLS.S30.T10UFC.2019361T191809.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 250.97774410247803
+    },
+    {
+      "beginning_utc": "2019-12-27T19:20:06.690000+00:00",
+      "native_id": "HLS.S30.T10UEC.2019361T191809.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.15216636657715
+    },
+    {
+      "beginning_utc": "2020-01-01T19:20:02.173000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020001T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 234.48021697998047
+    },
+    {
+      "beginning_utc": "2020-01-01T19:20:06.086000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020001T191811.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.86358642578125
+    },
+    {
+      "beginning_utc": "2020-01-06T19:20:02.516000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020006T191759.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.89049625396729
+    },
+    {
+      "beginning_utc": "2020-01-06T19:20:06.430000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020006T191759.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.97191047668457
+    },
+    {
+      "beginning_utc": "2020-01-11T19:20:01.998000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020011T191751.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 233.87158203125
+    },
+    {
+      "beginning_utc": "2020-01-11T19:20:05.912000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020011T191751.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.55348777770996
+    },
+    {
+      "beginning_utc": "2020-01-16T19:20:01.711000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020016T191729.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.06696319580078
+    },
+    {
+      "beginning_utc": "2020-01-16T19:20:05.624000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020016T191729.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.31334686279297
+    },
+    {
+      "beginning_utc": "2020-01-19T19:00:23.789000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020019T190023.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 160.6232089996338
+    },
+    {
+      "beginning_utc": "2020-01-19T19:00:47.672000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020019T190047.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.57819747924805
+    },
+    {
+      "beginning_utc": "2020-01-26T19:20:00.408000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020026T191649.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.50757312774658
+    },
+    {
+      "beginning_utc": "2020-01-26T19:20:04.320000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020026T191649.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.13551712036133
+    },
+    {
+      "beginning_utc": "2020-01-28T18:54:34.011000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020028T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.616128921508789
+    },
+    {
+      "beginning_utc": "2020-01-28T18:54:34.011000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020028T185434.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.62205982208252
+    },
+    {
+      "beginning_utc": "2020-02-10T19:20:00.295000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020041T191531.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.48093605041504
+    },
+    {
+      "beginning_utc": "2020-02-15T19:20:03.404000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020046T191459.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.56080436706543
+    },
+    {
+      "beginning_utc": "2020-02-15T19:20:07.315000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020046T191459.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.9253749847412
+    },
+    {
+      "beginning_utc": "2020-02-20T19:00:15.144000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020051T190015.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.60625553131104
+    },
+    {
+      "beginning_utc": "2020-02-20T19:00:39.031000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020051T190039.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.52011680603027
+    },
+    {
+      "beginning_utc": "2020-02-25T19:20:08.637000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020056T191349.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.8754243850708
+    },
+    {
+      "beginning_utc": "2020-03-06T19:20:05.236000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020066T191239.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 252.55302143096924
+    },
+    {
+      "beginning_utc": "2020-03-06T19:20:07.507000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020066T191239.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 252.54081439971924
+    },
+    {
+      "beginning_utc": "2020-03-07T19:00:09.523000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020067T190009.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 175.99345016479492
+    },
+    {
+      "beginning_utc": "2020-03-07T19:00:33.401000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020067T190033.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 188.00912284851074
+    },
+    {
+      "beginning_utc": "2020-03-11T19:20:03.839000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020071T191201.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 253.86824321746826
+    },
+    {
+      "beginning_utc": "2020-03-16T18:54:18.323000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020076T185418.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.331744194030762
+    },
+    {
+      "beginning_utc": "2020-03-16T18:54:18.323000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020076T185418.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 176.69424533843994
+    },
+    {
+      "beginning_utc": "2020-03-21T19:20:02.095000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020081T191051.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.55655574798584
+    },
+    {
+      "beginning_utc": "2020-03-23T19:00:25.304000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020083T190025.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 192.0687255859375
+    },
+    {
+      "beginning_utc": "2020-03-23T19:00:25.304000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020083T190025.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.73583507537842
+    },
+    {
+      "beginning_utc": "2020-03-31T19:20:07.533000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020091T190931.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.1171531677246
+    },
+    {
+      "beginning_utc": "2020-04-01T18:54:08.811000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020092T185408.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 8.332232475280762
+    },
+    {
+      "beginning_utc": "2020-04-01T18:54:08.811000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020092T185408.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 189.14485454559326
+    },
+    {
+      "beginning_utc": "2020-04-05T19:20:04.644000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020096T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 234.91444206237793
+    },
+    {
+      "beginning_utc": "2020-04-05T19:20:08.556000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020096T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 245.0169677734375
+    },
+    {
+      "beginning_utc": "2020-04-08T18:59:53.070000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020099T185953.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 169.31450843811035
+    },
+    {
+      "beginning_utc": "2020-04-08T19:00:16.944000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020099T190016.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 185.38843631744385
+    },
+    {
+      "beginning_utc": "2020-04-10T19:20:06.005000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020101T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.48145198822021
+    },
+    {
+      "beginning_utc": "2020-04-10T19:20:09.924000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020101T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.06961345672607
+    },
+    {
+      "beginning_utc": "2020-04-20T19:20:08.582000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020111T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.4662094116211
+    },
+    {
+      "beginning_utc": "2020-04-20T19:20:12.505000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020111T190911.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 222.55696296691895
+    },
+    {
+      "beginning_utc": "2020-04-24T18:59:45.953000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020115T185945.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 173.43354988098145
+    },
+    {
+      "beginning_utc": "2020-04-24T19:00:09.836000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020115T190009.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 184.98938655853271
+    },
+    {
+      "beginning_utc": "2020-04-25T19:20:06.422000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020116T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.47463989257812
+    },
+    {
+      "beginning_utc": "2020-04-30T19:20:10.660000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020121T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.66464138031006
+    },
+    {
+      "beginning_utc": "2020-04-30T19:20:14.582000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020121T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.111234664917
+    },
+    {
+      "beginning_utc": "2020-05-03T18:53:53.873000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020124T185353.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 11.33071517944336
+    },
+    {
+      "beginning_utc": "2020-05-03T18:53:53.873000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020124T185353.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 194.84767818450928
+    },
+    {
+      "beginning_utc": "2020-05-05T19:20:05.029000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020126T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.23247146606445
+    },
+    {
+      "beginning_utc": "2020-05-05T19:20:08.941000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020126T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 218.56835842132568
+    },
+    {
+      "beginning_utc": "2020-05-10T18:59:38.260000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020131T185938.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.9694414138794
+    },
+    {
+      "beginning_utc": "2020-05-10T19:00:02.147000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020131T190002.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 167.78071784973145
+    },
+    {
+      "beginning_utc": "2020-05-10T19:20:12.221000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020131T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.60247135162354
+    },
+    {
+      "beginning_utc": "2020-05-10T19:20:16.149000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020131T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 208.1556396484375
+    },
+    {
+      "beginning_utc": "2020-05-15T19:20:07.035000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020136T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.91398334503174
+    },
+    {
+      "beginning_utc": "2020-05-15T19:20:10.949000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020136T190909.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.02233028411865
+    },
+    {
+      "beginning_utc": "2020-05-19T18:53:53.516000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020140T185353.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.072700500488281
+    },
+    {
+      "beginning_utc": "2020-05-19T18:53:53.516000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020140T185353.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.81358528137207
+    },
+    {
+      "beginning_utc": "2020-05-20T19:20:13.284000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020141T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.02152252197266
+    },
+    {
+      "beginning_utc": "2020-05-20T19:20:17.208000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020141T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.29769802093506
+    },
+    {
+      "beginning_utc": "2020-05-25T19:20:12.500000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020146T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.47834300994873
+    },
+    {
+      "beginning_utc": "2020-05-26T18:59:41.673000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020147T185941.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.46392631530762
+    },
+    {
+      "beginning_utc": "2020-05-26T19:00:05.559000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020147T190005.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 191.05090236663818
+    },
+    {
+      "beginning_utc": "2020-06-04T18:53:59.856000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020156T185359.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.650421142578125
+    },
+    {
+      "beginning_utc": "2020-06-04T18:53:59.856000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020156T185359.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.20793628692627
+    },
+    {
+      "beginning_utc": "2020-06-04T19:20:09.612000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020156T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.06009483337402
+    },
+    {
+      "beginning_utc": "2020-06-04T19:20:13.528000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020156T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 238.15049076080322
+    },
+    {
+      "beginning_utc": "2020-06-09T19:20:17.906000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020161T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.650071144104
+    },
+    {
+      "beginning_utc": "2020-06-11T18:59:51.178000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020163T185951.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.63934993743896
+    },
+    {
+      "beginning_utc": "2020-06-11T19:00:15.061000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020163T190015.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 172.0700216293335
+    },
+    {
+      "beginning_utc": "2020-06-14T19:20:14.042000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020166T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.60528659820557
+    },
+    {
+      "beginning_utc": "2020-06-19T19:20:13.618000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020171T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.02507305145264
+    },
+    {
+      "beginning_utc": "2020-06-19T19:20:17.540000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020171T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 219.69405364990234
+    },
+    {
+      "beginning_utc": "2020-06-20T18:54:09.296000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020172T185409.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.193061828613281
+    },
+    {
+      "beginning_utc": "2020-06-20T18:54:09.296000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020172T185409.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.8103322982788
+    },
+    {
+      "beginning_utc": "2020-06-24T19:20:10.223000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020176T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.01518058776855
+    },
+    {
+      "beginning_utc": "2020-06-24T19:20:14.139000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020176T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.0746030807495
+    },
+    {
+      "beginning_utc": "2020-06-27T18:59:59.712000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020179T185959.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 186.99057388305664
+    },
+    {
+      "beginning_utc": "2020-06-27T19:00:23.591000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020179T190023.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 194.83031749725342
+    },
+    {
+      "beginning_utc": "2020-06-29T19:20:12.837000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020181T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.41820335388184
+    },
+    {
+      "beginning_utc": "2020-06-29T19:20:16.756000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020181T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 231.01709079742432
+    },
+    {
+      "beginning_utc": "2020-07-04T19:20:09.864000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020186T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.08930206298828
+    },
+    {
+      "beginning_utc": "2020-07-04T19:20:13.776000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020186T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.90467929840088
+    },
+    {
+      "beginning_utc": "2020-07-06T18:54:16.712000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020188T185416.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.29401969909668
+    },
+    {
+      "beginning_utc": "2020-07-06T18:54:16.712000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020188T185416.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.0063066482544
+    },
+    {
+      "beginning_utc": "2020-07-09T19:20:11.694000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020191T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.7419548034668
+    },
+    {
+      "beginning_utc": "2020-07-13T19:00:30.122000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020195T190030.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 190.50744438171387
+    },
+    {
+      "beginning_utc": "2020-07-13T19:00:30.122000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020195T190030.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.8643045425415
+    },
+    {
+      "beginning_utc": "2020-07-14T19:20:12.984000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020196T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 206.79188346862793
+    },
+    {
+      "beginning_utc": "2020-07-19T19:20:12.764000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020201T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.72969341278076
+    },
+    {
+      "beginning_utc": "2020-07-19T19:20:16.685000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020201T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.18206691741943
+    },
+    {
+      "beginning_utc": "2020-07-22T18:54:22.133000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020204T185422.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.840960502624512
+    },
+    {
+      "beginning_utc": "2020-07-22T18:54:22.133000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020204T185422.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.07240295410156
+    },
+    {
+      "beginning_utc": "2020-07-24T19:20:09.905000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020206T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.29025268554688
+    },
+    {
+      "beginning_utc": "2020-07-24T19:20:13.816000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020206T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.03569221496582
+    },
+    {
+      "beginning_utc": "2020-07-29T19:00:10.787000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020211T190010.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.37156677246094
+    },
+    {
+      "beginning_utc": "2020-07-29T19:00:34.673000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020211T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.7034683227539
+    },
+    {
+      "beginning_utc": "2020-07-29T19:20:13.412000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020211T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 219.97954654693604
+    },
+    {
+      "beginning_utc": "2020-07-29T19:20:17.333000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020211T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 227.1518201828003
+    },
+    {
+      "beginning_utc": "2020-08-03T19:20:10.756000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020216T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 240.89518928527832
+    },
+    {
+      "beginning_utc": "2020-08-03T19:20:14.668000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020216T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.29129123687744
+    },
+    {
+      "beginning_utc": "2020-08-07T18:54:25.540000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020220T185425.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.407991409301758
+    },
+    {
+      "beginning_utc": "2020-08-07T18:54:25.540000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020220T185425.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.71551513671875
+    },
+    {
+      "beginning_utc": "2020-08-08T19:20:13.672000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020221T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 246.1282148361206
+    },
+    {
+      "beginning_utc": "2020-08-08T19:20:17.594000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020221T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.1456241607666
+    },
+    {
+      "beginning_utc": "2020-08-13T19:20:11.147000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020226T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.87537288665771
+    },
+    {
+      "beginning_utc": "2020-08-13T19:20:15.061000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020226T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 225.7592306137085
+    },
+    {
+      "beginning_utc": "2020-08-14T19:00:38.661000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020227T190038.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.9088592529297
+    },
+    {
+      "beginning_utc": "2020-08-14T19:00:38.661000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020227T190038.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.6579132080078
+    },
+    {
+      "beginning_utc": "2020-08-18T19:20:13.469000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020231T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 210.10442638397217
+    },
+    {
+      "beginning_utc": "2020-08-18T19:20:17.389000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020231T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.00513648986816
+    },
+    {
+      "beginning_utc": "2020-08-23T18:54:32.789000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020236T185432.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.401219367980957
+    },
+    {
+      "beginning_utc": "2020-08-23T18:54:32.789000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020236T185432.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 163.87441635131836
+    },
+    {
+      "beginning_utc": "2020-08-23T19:20:11.154000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020236T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 210.8611478805542
+    },
+    {
+      "beginning_utc": "2020-08-23T19:20:15.070000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020236T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 211.48167991638184
+    },
+    {
+      "beginning_utc": "2020-08-28T19:20:12.817000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020241T190921.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 226.6635389328003
+    },
+    {
+      "beginning_utc": "2020-08-30T19:00:23.111000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020243T190023.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.89114093780518
+    },
+    {
+      "beginning_utc": "2020-08-30T19:00:46.990000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020243T190046.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 166.08543968200684
+    },
+    {
+      "beginning_utc": "2020-09-02T19:20:10.733000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020246T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 236.24826335906982
+    },
+    {
+      "beginning_utc": "2020-09-02T19:20:14.649000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020246T190919.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.52270030975342
+    },
+    {
+      "beginning_utc": "2020-09-07T19:20:15.684000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020251T190931.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 208.30454349517822
+    },
+    {
+      "beginning_utc": "2020-09-08T18:54:39.927000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020252T185439.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.030893325805664
+    },
+    {
+      "beginning_utc": "2020-09-08T18:54:39.927000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020252T185439.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.44884872436523
+    },
+    {
+      "beginning_utc": "2020-09-12T19:20:09.823000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020256T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 203.3808298110962
+    },
+    {
+      "beginning_utc": "2020-09-12T19:20:13.739000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020256T190939.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 203.2459011077881
+    },
+    {
+      "beginning_utc": "2020-09-15T19:00:29.309000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020259T190029.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.33250904083252
+    },
+    {
+      "beginning_utc": "2020-09-15T19:00:53.192000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020259T190053.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 178.84659099578857
+    },
+    {
+      "beginning_utc": "2020-09-17T19:20:12.297000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020261T191041.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 201.61501502990723
+    },
+    {
+      "beginning_utc": "2020-09-17T19:20:16.219000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020261T191041.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 201.19835758209229
+    },
+    {
+      "beginning_utc": "2020-09-22T19:20:09.987000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020266T191019.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 224.09542751312256
+    },
+    {
+      "beginning_utc": "2020-09-22T19:20:13.902000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020266T191019.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 220.32604789733887
+    },
+    {
+      "beginning_utc": "2020-09-24T18:54:44.926000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020268T185444.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.039603233337402
+    },
+    {
+      "beginning_utc": "2020-09-24T18:54:44.926000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020268T185444.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 180.03888702392578
+    },
+    {
+      "beginning_utc": "2020-09-27T19:20:13.172000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020271T191151.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 230.04436206817627
+    },
+    {
+      "beginning_utc": "2020-09-27T19:20:17.092000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020271T191151.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 232.40348720550537
+    },
+    {
+      "beginning_utc": "2020-10-01T19:00:33.313000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020275T190033.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 164.9872007369995
+    },
+    {
+      "beginning_utc": "2020-10-01T19:00:57.200000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020275T190057.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.31961250305176
+    },
+    {
+      "beginning_utc": "2020-10-02T19:20:11.010000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020276T191229.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 206.17706775665283
+    },
+    {
+      "beginning_utc": "2020-10-02T19:20:14.926000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020276T191229.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 206.46159744262695
+    },
+    {
+      "beginning_utc": "2020-10-07T19:20:13.525000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020281T191311.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.90038681030273
+    },
+    {
+      "beginning_utc": "2020-10-07T19:20:17.449000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020281T191311.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.37651348114014
+    },
+    {
+      "beginning_utc": "2020-10-10T18:54:47.448000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020284T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 7.206292152404785
+    },
+    {
+      "beginning_utc": "2020-10-10T18:54:47.448000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020284T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 181.88221836090088
+    },
+    {
+      "beginning_utc": "2020-10-12T19:20:11.417000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020286T191339.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 252.28157997131348
+    },
+    {
+      "beginning_utc": "2020-10-12T19:20:15.332000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020286T191339.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.31396770477295
+    },
+    {
+      "beginning_utc": "2020-10-17T19:00:34.675000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020291T190034.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 179.44710445404053
+    },
+    {
+      "beginning_utc": "2020-10-17T19:00:58.558000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020291T190058.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 174.75178813934326
+    },
+    {
+      "beginning_utc": "2020-10-22T19:20:11.218000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020296T191449.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 252.82614040374756
+    },
+    {
+      "beginning_utc": "2020-10-22T19:20:15.133000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020296T191449.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 248.11167526245117
+    },
+    {
+      "beginning_utc": "2020-10-26T18:54:47.282000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020300T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.708212852478027
+    },
+    {
+      "beginning_utc": "2020-10-26T18:54:47.282000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020300T185447.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 170.90645027160645
+    },
+    {
+      "beginning_utc": "2020-10-27T19:20:12.924000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020301T191521.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 206.08515167236328
+    },
+    {
+      "beginning_utc": "2020-11-01T19:20:10.374000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020306T191539.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 235.04648685455322
+    },
+    {
+      "beginning_utc": "2020-11-06T19:20:12.231000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020311T191611.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 227.44724941253662
+    },
+    {
+      "beginning_utc": "2020-11-06T19:20:16.157000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020311T191611.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 219.29695510864258
+    },
+    {
+      "beginning_utc": "2020-11-11T18:54:43.940000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020316T185443.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 5.396134376525879
+    },
+    {
+      "beginning_utc": "2020-11-11T18:54:43.940000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020316T185443.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 183.0339298248291
+    },
+    {
+      "beginning_utc": "2020-11-11T19:20:08.758000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020316T191639.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 255.14587593078613
+    },
+    {
+      "beginning_utc": "2020-11-11T19:20:12.673000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020316T191639.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 247.33973503112793
+    },
+    {
+      "beginning_utc": "2020-11-21T19:20:08.171000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020326T191719.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 243.41924858093262
+    },
+    {
+      "beginning_utc": "2020-11-21T19:20:12.085000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020326T191719.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 244.29399585723877
+    },
+    {
+      "beginning_utc": "2020-11-26T19:20:12.522000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020331T191741.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 237.50983047485352
+    },
+    {
+      "beginning_utc": "2020-11-27T18:54:48.009000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020332T185448.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 6.667306900024414
+    },
+    {
+      "beginning_utc": "2020-11-27T18:54:48.009000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020332T185448.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 187.3290901184082
+    },
+    {
+      "beginning_utc": "2020-12-01T19:20:06.935000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020336T191749.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.77685737609863
+    },
+    {
+      "beginning_utc": "2020-12-01T19:20:10.849000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020336T191749.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 242.83258056640625
+    },
+    {
+      "beginning_utc": "2020-12-04T19:00:59.551000+00:00",
+      "native_id": "HLS.L30.T10UEC.2020339T190059.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 182.64494609832764
+    },
+    {
+      "beginning_utc": "2020-12-04T19:00:59.551000+00:00",
+      "native_id": "HLS.L30.T10UFC.2020339T190059.v2.0",
+      "short_name": "HLSL30",
+      "size_mb": 171.13008403778076
+    },
+    {
+      "beginning_utc": "2020-12-06T19:20:02.709000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020341T191801.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 239.47554206848145
+    },
+    {
+      "beginning_utc": "2020-12-11T19:20:04.728000+00:00",
+      "native_id": "HLS.S30.T10UFC.2020346T191809.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 234.3166627883911
+    },
+    {
+      "beginning_utc": "2020-12-11T19:20:08.641000+00:00",
+      "native_id": "HLS.S30.T10UEC.2020346T191809.v2.0",
+      "short_name": "HLSS30",
+      "size_mb": 241.37947845458984
+    }
+  ],
+  "mask_bits": 31,
+  "retrieved_utc": "2026-10-27T23:32:06.690350+00:00",
+  "schema_version": "fresh.beast.hls-granules.v1",
+  "source": "NASA HLS L30/S30 v2 via earthaccess",
+  "start": "2013-01-01"
+}

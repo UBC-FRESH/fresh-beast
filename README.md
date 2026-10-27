@@ -12,10 +12,10 @@ change detection is the published BEAST algorithm, run through the reference
 choice (for example, exact MCMC settings or an NSR severity mapping), this
 package exposes the gap rather than inventing a coefficient.
 
-> Status: `0.1.0a1` alpha. The package has been exercised on a TSA 23
-> negative-control pilot and a 20-block 2024 AOS-labelled cluster. It is not
-> yet a province-wide production detector, and the cluster has no matched
-> controls, so it does not estimate false positives.
+> Status: `0.1.0a1` alpha. The package has been exercised on a negative-control
+> block, a 20-block 2024 AOS-labelled cluster, and a 2019 ID6 case-control
+> sample. The case-control result failed at the 0.5 threshold (25.8% sensitivity,
+> 66.0% specificity); the package is not operational.
 
 ## What it does
 
@@ -91,6 +91,10 @@ Outputs:
   Severe polygon covering a 20-block cluster; 1,444/1,444 pixels and 60 events.
   19/20 blocks have an event, 18 before the 2024 capture. This is a
   positive-label cluster, not a case-control accuracy estimate.
+- `examples/tsa23_id6_2019_case_control/`: 2019 AOS Aspen Leaf Miner / Moderate
+  polygon, 31 positive and 47 control blocks, 3,876 pixels, 37 events. At
+  2018-2020, sensitivity 25.8%, specificity 66.0%, precision 33.3%. The
+  case-control result **fails**; do not promote at 0.5.
 
 ## Method choices
 

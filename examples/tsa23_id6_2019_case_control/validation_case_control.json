@@ -1,0 +1,153 @@
+{
+  "schema_version": "fresh.beast.validation.v1",
+  "label": {
+    "source": "BC Pest Infestation Polygons (all years) / BC Geographic Warehouse historical archive",
+    "original_url": "https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+    "archived_url": "https://web.archive.org/web/20250515225452id_/https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+    "archive_timestamp_utc": "2025-05-15T22:54:52Z",
+    "capture_year": 2019,
+    "pest_species_code": "ID6",
+    "pest_species_common_name": "Aspen Leaf Miner",
+    "severity_code": "M",
+    "severity": "Moderate",
+    "polygon_number": 19542019,
+    "polygon_area_ha": 1080.07,
+    "window_blocks": 90,
+    "labelled_blocks": 31,
+    "control_blocks": 47,
+    "window_bbox_wgs84": [
+      -121.47705396020223,
+      51.492802825635046,
+      -121.45305396020223,
+      51.51080282563505
+    ],
+    "anchor_block": 2788,
+    "positive_blocks": 31,
+    "excluded_boundary_blocks": 12,
+    "case_definition": "positive: >=99% of block area inside AOS polygon; control: <=0.1% inside; exclude: partial boundary overlap"
+  },
+  "sample": {
+    "window_blocks": 90,
+    "positive_blocks": 31,
+    "control_blocks": 47,
+    "excluded_boundary_blocks": 12
+  },
+  "primary_window": {
+    "years": [
+      2018,
+      2020
+    ],
+    "tp": 8,
+    "fp": 16,
+    "fn": 23,
+    "tn": 31,
+    "sensitivity": 0.25806451612903225,
+    "specificity": 0.6595744680851063,
+    "precision": 0.3333333333333333,
+    "accuracy": 0.5
+  },
+  "same_year_window": {
+    "years": [
+      2019,
+      2019
+    ],
+    "tp": 0,
+    "fp": 0,
+    "fn": 31,
+    "tn": 47,
+    "sensitivity": 0.0,
+    "specificity": 1.0,
+    "precision": null,
+    "accuracy": 0.6025641025641025
+  },
+  "any_event_window": {
+    "years": [
+      2013,
+      2020
+    ],
+    "tp": 8,
+    "fp": 17,
+    "fn": 23,
+    "tn": 30,
+    "sensitivity": 0.25806451612903225,
+    "specificity": 0.6382978723404256,
+    "precision": 0.32,
+    "accuracy": 0.48717948717948717
+  },
+  "event_summary": {
+    "total_events": 37,
+    "blocks_with_events": 32,
+    "events_by_year": {
+      "2013": 1,
+      "2016": 1,
+      "2017": 3,
+      "2018": 31,
+      "2020": 1
+    },
+    "total_event_area_ha": 7.29
+  },
+  "positive_blocks_without_event": [
+    3782,
+    14121,
+    20950,
+    33514,
+    40099,
+    48627,
+    49773,
+    50424,
+    54200,
+    55854,
+    57975,
+    69580,
+    72541,
+    77055,
+    79941,
+    85138,
+    87245,
+    88724,
+    91986,
+    93079,
+    97484,
+    97573,
+    101288
+  ],
+  "control_blocks_with_event": [
+    79,
+    4603,
+    25899,
+    51953,
+    54912,
+    57909,
+    64146,
+    70137,
+    71383,
+    72837,
+    74144,
+    74560,
+    79590,
+    82482,
+    84920,
+    85272,
+    101289
+  ],
+  "excluded_blocks_with_event": [
+    2788,
+    16007,
+    28587,
+    70552,
+    96534,
+    99481,
+    99712
+  ],
+  "caveats": [
+    "This is one AOS polygon (2019 ID6 Moderate, Aspen Leaf Miner) and one 68x57 HLS window; it is a small case-control sample, not a provincial accuracy estimate.",
+    "Positive/control labels use >=99% / <=0.1% block-area overlap with the AOS polygon; 12 boundary blocks are excluded.",
+    "BEAST has no agent or severity mapping; ID6 is the AOS label, not a BEAST classification.",
+    "AOS has omission and commission error and is not a pixel-level truth set.",
+    "The 0.5 threshold was not tuned; these metrics are at the pre-specified threshold.",
+    "The HLS-only 2013-2020 period is shorter than the Brown et al. 2000-2020 design.",
+    "The primary window is 2018-2020 around the 2019 AOS capture; 2019-only metrics are also reported.",
+    "This result does not support operational use of BEAST at 0.5 for ID6; it should remain an informational overlay."
+  ],
+  "verdict": "do_not_promote_operational_at_0.5"
+}

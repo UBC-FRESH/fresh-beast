@@ -1,0 +1,26 @@
+{
+  "source": "BC Pest Infestation Polygons (all years) / BC Geographic Warehouse historical archive",
+  "original_url": "https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+  "archived_url": "https://web.archive.org/web/20250515225452id_/https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+  "archive_timestamp_utc": "2025-05-15T22:54:52Z",
+  "capture_year": 2019,
+  "pest_species_code": "ID6",
+  "pest_species_common_name": "Aspen Leaf Miner",
+  "severity_code": "M",
+  "severity": "Moderate",
+  "polygon_number": 19542019,
+  "polygon_area_ha": 1080.07,
+  "window_blocks": 90,
+  "labelled_blocks": 31,
+  "control_blocks": 47,
+  "window_bbox_wgs84": [
+    -121.47705396020223,
+    51.492802825635046,
+    -121.45305396020223,
+    51.51080282563505
+  ],
+  "anchor_block": 2788,
+  "positive_blocks": 31,
+  "excluded_boundary_blocks": 12,
+  "case_definition": "positive: >=99% of block area inside AOS polygon; control: <=0.1% inside; exclude: partial boundary overlap"
+}
