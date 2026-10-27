@@ -294,7 +294,8 @@ def build_composites(
         band = _select_bands(handles, *SENSOR_BANDS[first_short_name])[first_band]
         with rasterio.open(band) as dataset:
             crs = CRS.from_wkt(dataset.crs.to_wkt())
-            transform = dataset.transform
+            window = _window_for_bbox(dataset, bbox_wgs84)
+            transform = dataset.window_transform(window)
     finally:
         for file in handles:
             file.close()

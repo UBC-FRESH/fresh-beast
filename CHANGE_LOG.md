@@ -10,5 +10,7 @@
 - Negative-changepoint annual probability and block-level
   `femic.disturbance.v1` events.
 - `fresh.beast.v1` result document with explicit method and caveats.
-- TSA 23 block 33140 pilot example.
+- TSA 23 block 33140 negative-control pilot: 636 HLS granules, 183 composites,
+  840/840 pixels processed, 0 events at the 0.5 threshold (max in-block
+  probability 0.348).
 - Consumer tests against FEMIC's contract validator and WS4's event reader.

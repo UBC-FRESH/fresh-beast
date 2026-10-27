@@ -12,8 +12,9 @@ change detection is the published BEAST algorithm, run through the reference
 choice (for example, exact MCMC settings or an NSR severity mapping), this
 package exposes the gap rather than inventing a coefficient.
 
-> Status: `0.1.0a1` alpha. The package has been exercised on a TSA 23 pilot;
-> it is not yet a province-wide production detector.
+> Status: `0.1.0a1` alpha. The package has been exercised on a TSA 23
+> negative-control pilot; it is not yet a province-wide production detector and
+> has not been validated against AOS polygons.
 
 ## What it does
 
