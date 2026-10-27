@@ -1,0 +1,127 @@
+{
+  "aoi": {
+    "aoi_source": "examples/tsa23_block1356_aos2025/hls_composites.npz",
+    "bbox_wgs84": [
+      -121.62084,
+      51.08985,
+      -121.60484,
+      51.09985
+    ],
+    "block_source": "examples/tsa23_block1356_aos2025/blocks.geojson"
+  },
+  "beast": {
+    "min_consecutive_years": 1,
+    "min_valid": 60,
+    "period_years": 1.0,
+    "pixels": 1444,
+    "pixels_with_summary": 1444,
+    "rbeast_version": "1.0.2",
+    "season": "harmonic",
+    "status_counts": {
+      "ok": 1444
+    },
+    "threshold": 0.5,
+    "time_steps": 297
+  },
+  "caveats": [
+    "BEAST detects changepoints in NBR, not tree survival or a specific agent.",
+    "No published BEAST-to-AOS severity mapping is applied; severity_class is unknown.",
+    "HLS-only composites start in 2013 (L30) and 2015 (S30); Brown et al. used Landsat from 2000.",
+    "A BEAST detection is not a validated AOS polygon match unless a separate validation join is supplied."
+  ],
+  "composites": {
+    "band_pairs": [
+      [
+        "B05",
+        "B07"
+      ],
+      [
+        "B8A",
+        "B12"
+      ]
+    ],
+    "bbox_wgs84": [
+      -121.62084,
+      51.08985,
+      -121.60484,
+      51.09985
+    ],
+    "crs": "PROJCS[\"UTM Zone 10, Northern Hemisphere\",GEOGCS[\"Unknown datum based upon the WGS 84 ellipsoid\",DATUM[\"Not specified (based on WGS 84 spheroid)\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-123],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "end_exclusive": "2026-01-01",
+    "mask_bits": 31,
+    "pixel_area_ha": 0.09,
+    "shape": [
+      297,
+      38,
+      38
+    ],
+    "start": "2013-01-01",
+    "transform": [
+      30.0,
+      0.0,
+      596550.0,
+      0.0,
+      -30.0,
+      5661870.0
+    ],
+    "valid_fraction": 0.5043999552309801
+  },
+  "events": [
+    {
+      "area_ha": 0.63,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        1356
+      ],
+      "confidence": 0.5846667289733887,
+      "event_id": "fresh-beast:1356:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=1356; pixels=7; mean_negative_cp=0.551857; max_negative_cp=0.584667; max_negative_change=-0.009883",
+      "retrieved_utc": "2026-10-27T22:33:03.077281+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 6.84,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        1356
+      ],
+      "confidence": 0.9961667060852051,
+      "event_id": "fresh-beast:1356:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=1356; pixels=76; mean_negative_cp=0.788784; max_negative_cp=0.996167; max_negative_change=-0.009883",
+      "retrieved_utc": "2026-10-27T22:33:03.077281+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    }
+  ],
+  "generated_utc": "2026-10-27T22:33:03.086160+00:00",
+  "method": {
+    "agent_attribution": null,
+    "algorithm": "BEAST",
+    "event_type": "partial_mortality",
+    "implementation": "Rbeast",
+    "min_consecutive_years": 1,
+    "min_valid_composites": 60,
+    "rbeast_version": "1.0.2",
+    "season": "harmonic",
+    "severity_mapping": null,
+    "signal": "negative NBR changepoint probability",
+    "threshold": 0.5,
+    "time_axis": "regular 16-day composites; annual period"
+  },
+  "schema_version": "fresh.beast.v1"
+}

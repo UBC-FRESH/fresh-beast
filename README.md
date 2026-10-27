@@ -13,8 +13,9 @@ choice (for example, exact MCMC settings or an NSR severity mapping), this
 package exposes the gap rather than inventing a coefficient.
 
 > Status: `0.1.0a1` alpha. The package has been exercised on a TSA 23
-> negative-control pilot; it is not yet a province-wide production detector and
-> has not been validated against AOS polygons.
+> negative-control pilot and a 2025 AOS-labelled block. It is not yet a
+> province-wide production detector, and the AOS example is one block rather
+> than a formal accuracy assessment.
 
 ## What it does
 
@@ -81,6 +82,15 @@ Outputs:
 | `events.json` | `femic.disturbance.v1` event table, written only when at least one event exists |
 | `result.json` | `fresh.beast.v1` method, provenance, summary, and caveats |
 | `annual_probability.csv` | annual maximum negative changepoint probability per pixel |
+
+## Pilots
+
+- `examples/tsa23_block33140/`: negative control, 840/840 pixels, 0 events at
+  the 0.5 threshold.
+- `examples/tsa23_block1356_aos2025/`: 2025 AOS Western Spruce Budworm /
+  Severe polygon covering block 1356; 1,444/1,444 pixels and two events
+  (2018 and 2023). The 2023 event is two years before the AOS capture, so it is
+  early detection, not same-year agreement.
 
 ## Method choices
 
