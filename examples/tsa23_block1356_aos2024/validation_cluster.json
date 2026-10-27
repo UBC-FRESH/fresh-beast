@@ -1,0 +1,125 @@
+{
+  "schema_version": "fresh.beast.validation.v1",
+  "label": {
+    "source": "BC Pest Infestation Polygons (all years) / BC Geographic Warehouse historical archive",
+    "original_url": "https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+    "archived_url": "https://web.archive.org/web/20250515225452id_/https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+    "archive_timestamp_utc": "2025-05-15T22:54:52Z",
+    "layer": "pest_infestation_poly",
+    "capture_year": 2024,
+    "pest_species_code": "IDW",
+    "pest_species_common_name": "Western Spruce Budworm",
+    "severity_code": "S",
+    "severity": "Severe",
+    "polygon_number": 154262024,
+    "polygon_area_ha": 28888.56,
+    "window_blocks": 20,
+    "window_blocks_with_label": 20,
+    "window_label_intersection_ha": 275.88513471
+  },
+  "sample": {
+    "window_blocks": 20,
+    "blocks_fully_or_partially_in_label": 20,
+    "block_area_ha": 275.89
+  },
+  "metrics": {
+    "window_blocks": 20,
+    "labelled_blocks": 20,
+    "label_capture_year": 2024,
+    "label_agent": "IDW",
+    "label_severity": "Severe",
+    "blocks_with_any_event": 19,
+    "blocks_without_event": [
+      98831
+    ],
+    "block_sensitivity_any_event": 0.95,
+    "blocks_with_event_2023": 18,
+    "blocks_with_event_2024": 7,
+    "blocks_with_event_2023_or_2024": 19,
+    "blocks_with_event_2022_to_2024": 19,
+    "blocks_with_event_2020_to_2024": 19,
+    "blocks_same_year_2024": 7,
+    "blocks_one_year_early_2023_only": 12,
+    "total_events": 60,
+    "events_by_year": {
+      "2013": 2,
+      "2016": 1,
+      "2018": 11,
+      "2019": 1,
+      "2020": 6,
+      "2021": 10,
+      "2022": 3,
+      "2023": 18,
+      "2024": 7,
+      "2025": 1
+    },
+    "event_area_ha": 74.16,
+    "block_area_ha": 275.89,
+    "latest_event_year_by_block": {
+      "1356": 2023,
+      "7756": 2023,
+      "10291": 2024,
+      "13806": 2024,
+      "15998": 2023,
+      "18429": 2024,
+      "30596": 2023,
+      "36234": 2024,
+      "38257": 2025,
+      "49391": 2023,
+      "50220": 2023,
+      "54735": 2023,
+      "60271": 2024,
+      "74356": 2024,
+      "75276": 2023,
+      "77865": 2024,
+      "81085": 2023,
+      "85853": 2023,
+      "85938": 2023,
+      "98831": null
+    },
+    "lead_time_years_by_block": {
+      "1356": 1,
+      "7756": 1,
+      "10291": 0,
+      "13806": 0,
+      "15998": 1,
+      "18429": 0,
+      "30596": 1,
+      "36234": 0,
+      "38257": -1,
+      "49391": 1,
+      "50220": 1,
+      "54735": 1,
+      "60271": 0,
+      "74356": 0,
+      "75276": 1,
+      "77865": 0,
+      "81085": 1,
+      "85853": 1,
+      "85938": 1,
+      "98831": null
+    }
+  },
+  "positive_control": {
+    "description": "All 20 blocks intersect the 2024 IDW Severe AOS polygon; this is a positive-label cluster, not a case-control sample.",
+    "block_1356_events": [
+      "fresh-beast:1356:2018:neg-change",
+      "fresh-beast:1356:2020:neg-change",
+      "fresh-beast:1356:2023:neg-change"
+    ]
+  },
+  "separate_negative_control": {
+    "example": "examples/tsa23_block33140",
+    "events": 0,
+    "note": "Separate 2013-2020 block, no AOS 2024 label applied; not a matched control."
+  },
+  "caveats": [
+    "All blocks in the HLS window are inside the 2024 AOS polygon, so this measures block-level sensitivity only; it does not estimate false positives.",
+    "The 2024 AOS label is from the archived all-years Pest Infestation Polygons layer, not the 2025 current layer.",
+    "AOS has omission and commission error and is not a pixel-level truth set.",
+    "BEAST has no agent or severity mapping; IDW is the AOS label, not a BEAST classification.",
+    "The 2023 events are one year before the 2024 AOS capture and are reported as early detections, not same-year agreement.",
+    "Several blocks have earlier events (2013-2021) whose causes are unverified.",
+    "One block (98831) had no event at the 0.5 threshold."
+  ]
+}

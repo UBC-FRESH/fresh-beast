@@ -13,9 +13,9 @@ choice (for example, exact MCMC settings or an NSR severity mapping), this
 package exposes the gap rather than inventing a coefficient.
 
 > Status: `0.1.0a1` alpha. The package has been exercised on a TSA 23
-> negative-control pilot and a 2025 AOS-labelled block. It is not yet a
-> province-wide production detector, and the AOS example is one block rather
-> than a formal accuracy assessment.
+> negative-control pilot and a 20-block 2024 AOS-labelled cluster. It is not
+> yet a province-wide production detector, and the cluster has no matched
+> controls, so it does not estimate false positives.
 
 ## What it does
 
@@ -87,10 +87,10 @@ Outputs:
 
 - `examples/tsa23_block33140/`: negative control, 840/840 pixels, 0 events at
   the 0.5 threshold.
-- `examples/tsa23_block1356_aos2025/`: 2025 AOS Western Spruce Budworm /
-  Severe polygon covering block 1356; 1,444/1,444 pixels and two events
-  (2018 and 2023). The 2023 event is two years before the AOS capture, so it is
-  early detection, not same-year agreement.
+- `examples/tsa23_block1356_aos2024/`: 2024 AOS Western Spruce Budworm /
+  Severe polygon covering a 20-block cluster; 1,444/1,444 pixels and 60 events.
+  19/20 blocks have an event, 18 before the 2024 capture. This is a
+  positive-label cluster, not a case-control accuracy estimate.
 
 ## Method choices
 

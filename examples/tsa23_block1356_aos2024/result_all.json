@@ -1,0 +1,1287 @@
+{
+  "aoi": {
+    "aoi_source": "examples/tsa23_block1356_aos2025/hls_composites.npz",
+    "bbox_wgs84": [
+      -121.62084,
+      51.08985,
+      -121.60484,
+      51.09985
+    ],
+    "block_source": "examples/tsa23_block1356_aos2025/blocks_all.geojson"
+  },
+  "beast": {
+    "min_consecutive_years": 1,
+    "min_valid": 60,
+    "period_years": 1.0,
+    "pixels": 1444,
+    "pixels_with_summary": 1444,
+    "rbeast_version": "1.0.2",
+    "season": "harmonic",
+    "status_counts": {
+      "ok": 1444
+    },
+    "threshold": 0.5,
+    "time_steps": 297
+  },
+  "caveats": [
+    "BEAST detects changepoints in NBR, not tree survival or a specific agent.",
+    "No published BEAST-to-AOS severity mapping is applied; severity_class is unknown.",
+    "HLS-only composites start in 2013 (L30) and 2015 (S30); Brown et al. used Landsat from 2000.",
+    "A BEAST detection is not a validated AOS polygon match unless a separate validation join is supplied."
+  ],
+  "composites": {
+    "band_pairs": [
+      [
+        "B05",
+        "B07"
+      ],
+      [
+        "B8A",
+        "B12"
+      ]
+    ],
+    "bbox_wgs84": [
+      -121.62084,
+      51.08985,
+      -121.60484,
+      51.09985
+    ],
+    "crs": "PROJCS[\"UTM Zone 10, Northern Hemisphere\",GEOGCS[\"Unknown datum based upon the WGS 84 ellipsoid\",DATUM[\"Not specified (based on WGS 84 spheroid)\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-123],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "end_exclusive": "2026-01-01",
+    "mask_bits": 31,
+    "pixel_area_ha": 0.09,
+    "shape": [
+      297,
+      38,
+      38
+    ],
+    "start": "2013-01-01",
+    "transform": [
+      30.0,
+      0.0,
+      596550.0,
+      0.0,
+      -30.0,
+      5661870.0
+    ],
+    "valid_fraction": 0.5043999552309801
+  },
+  "events": [
+    {
+      "area_ha": 0.54,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        1356
+      ],
+      "confidence": 0.5674583911895752,
+      "event_id": "fresh-beast:1356:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=1356; pixels=6; mean_negative_cp=0.543229; max_negative_cp=0.567458; max_negative_change=-0.006999",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        1356
+      ],
+      "confidence": 0.5200833678245544,
+      "event_id": "fresh-beast:1356:2020:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=1356; pixels=1; mean_negative_cp=0.520083; max_negative_cp=0.520083; max_negative_change=-0.134062",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2020
+    },
+    {
+      "area_ha": 6.93,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        1356
+      ],
+      "confidence": 0.9974166750907898,
+      "event_id": "fresh-beast:1356:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=1356; pixels=77; mean_negative_cp=0.784681; max_negative_cp=0.997417; max_negative_change=-0.006999",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.27,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        7756
+      ],
+      "confidence": 0.5586250424385071,
+      "event_id": "fresh-beast:7756:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=7756; pixels=3; mean_negative_cp=0.532625; max_negative_cp=0.558625; max_negative_change=-0.087145",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 2.61,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        7756
+      ],
+      "confidence": 0.9770833849906921,
+      "event_id": "fresh-beast:7756:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=7756; pixels=29; mean_negative_cp=0.793741; max_negative_cp=0.977083; max_negative_change=-0.040797",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.18,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        10291
+      ],
+      "confidence": 0.6565834283828735,
+      "event_id": "fresh-beast:10291:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=10291; pixels=2; mean_negative_cp=0.581000; max_negative_cp=0.656583; max_negative_change=-0.054076",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.18,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        10291
+      ],
+      "confidence": 0.9838334321975708,
+      "event_id": "fresh-beast:10291:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=10291; pixels=2; mean_negative_cp=0.812042; max_negative_cp=0.983833; max_negative_change=-0.036183",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        10291
+      ],
+      "confidence": 0.7449584007263184,
+      "event_id": "fresh-beast:10291:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=10291; pixels=1; mean_negative_cp=0.744958; max_negative_cp=0.744958; max_negative_change=-0.036183",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.44999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        10291
+      ],
+      "confidence": 0.9063333868980408,
+      "event_id": "fresh-beast:10291:2024:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=10291; pixels=5; mean_negative_cp=0.690075; max_negative_cp=0.906333; max_negative_change=-0.054076",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2024
+    },
+    {
+      "area_ha": 0.44999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        13806
+      ],
+      "confidence": 0.9134584665298462,
+      "event_id": "fresh-beast:13806:2013:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=13806; pixels=5; mean_negative_cp=0.686008; max_negative_cp=0.913458; max_negative_change=-0.090706",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2013
+    },
+    {
+      "area_ha": 0.44999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        13806
+      ],
+      "confidence": 0.7614167928695679,
+      "event_id": "fresh-beast:13806:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=13806; pixels=5; mean_negative_cp=0.633383; max_negative_cp=0.761417; max_negative_change=-0.055159",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.8999999999999999,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        13806
+      ],
+      "confidence": 0.9177083969116211,
+      "event_id": "fresh-beast:13806:2020:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=13806; pixels=10; mean_negative_cp=0.736679; max_negative_cp=0.917708; max_negative_change=-0.025289",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2020
+    },
+    {
+      "area_ha": 0.18,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        13806
+      ],
+      "confidence": 0.6229166984558105,
+      "event_id": "fresh-beast:13806:2022:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=13806; pixels=2; mean_negative_cp=0.593729; max_negative_cp=0.622917; max_negative_change=-0.032108",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2022
+    },
+    {
+      "area_ha": 4.32,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        13806
+      ],
+      "confidence": 0.9699583053588867,
+      "event_id": "fresh-beast:13806:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=13806; pixels=48; mean_negative_cp=0.744372; max_negative_cp=0.969958; max_negative_change=-0.037988",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.18,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        13806
+      ],
+      "confidence": 0.5176250338554382,
+      "event_id": "fresh-beast:13806:2024:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=13806; pixels=2; mean_negative_cp=0.516813; max_negative_cp=0.517625; max_negative_change=-0.034397",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2024
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        15998
+      ],
+      "confidence": 0.5365417003631592,
+      "event_id": "fresh-beast:15998:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=15998; pixels=1; mean_negative_cp=0.536542; max_negative_cp=0.536542; max_negative_change=-0.057237",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.72,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        15998
+      ],
+      "confidence": 0.9914166927337646,
+      "event_id": "fresh-beast:15998:2020:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=15998; pixels=8; mean_negative_cp=0.701339; max_negative_cp=0.991417; max_negative_change=-0.030465",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2020
+    },
+    {
+      "area_ha": 0.8999999999999999,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        15998
+      ],
+      "confidence": 0.8681668043136597,
+      "event_id": "fresh-beast:15998:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=15998; pixels=10; mean_negative_cp=0.696821; max_negative_cp=0.868167; max_negative_change=-0.050227",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.18,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        18429
+      ],
+      "confidence": 0.874875009059906,
+      "event_id": "fresh-beast:18429:2013:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=18429; pixels=2; mean_negative_cp=0.764042; max_negative_cp=0.874875; max_negative_change=-0.009758",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2013
+    },
+    {
+      "area_ha": 0.44999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        18429
+      ],
+      "confidence": 0.921416699886322,
+      "event_id": "fresh-beast:18429:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=18429; pixels=5; mean_negative_cp=0.680767; max_negative_cp=0.921417; max_negative_change=-0.058878",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        18429
+      ],
+      "confidence": 0.5325833559036255,
+      "event_id": "fresh-beast:18429:2024:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=18429; pixels=1; mean_negative_cp=0.532583; max_negative_cp=0.532583; max_negative_change=-0.049070",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2024
+    },
+    {
+      "area_ha": 0.27,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        30596
+      ],
+      "confidence": 0.7335416674613953,
+      "event_id": "fresh-beast:30596:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=30596; pixels=3; mean_negative_cp=0.618222; max_negative_cp=0.733542; max_negative_change=-0.075153",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        30596
+      ],
+      "confidence": 0.6681666374206543,
+      "event_id": "fresh-beast:30596:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=30596; pixels=1; mean_negative_cp=0.668167; max_negative_cp=0.668167; max_negative_change=-0.082470",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 3.5999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        30596
+      ],
+      "confidence": 0.9566249847412109,
+      "event_id": "fresh-beast:30596:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=30596; pixels=40; mean_negative_cp=0.744263; max_negative_cp=0.956625; max_negative_change=-0.028570",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        36234
+      ],
+      "confidence": 0.5667083263397217,
+      "event_id": "fresh-beast:36234:2020:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=36234; pixels=1; mean_negative_cp=0.566708; max_negative_cp=0.566708; max_negative_change=0.003931",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2020
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        36234
+      ],
+      "confidence": 0.5278750658035278,
+      "event_id": "fresh-beast:36234:2024:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=36234; pixels=1; mean_negative_cp=0.527875; max_negative_cp=0.527875; max_negative_change=-0.036461",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2024
+    },
+    {
+      "area_ha": 0.44999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        38257
+      ],
+      "confidence": 0.7575833797454834,
+      "event_id": "fresh-beast:38257:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=38257; pixels=5; mean_negative_cp=0.665950; max_negative_cp=0.757583; max_negative_change=-0.036061",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.63,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        38257
+      ],
+      "confidence": 0.7640833854675293,
+      "event_id": "fresh-beast:38257:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=38257; pixels=7; mean_negative_cp=0.584048; max_negative_cp=0.764083; max_negative_change=-0.035161",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 9.81,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        38257
+      ],
+      "confidence": 0.9973750114440918,
+      "event_id": "fresh-beast:38257:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=38257; pixels=109; mean_negative_cp=0.822814; max_negative_cp=0.997375; max_negative_change=-0.020017",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        38257
+      ],
+      "confidence": 0.5344583988189697,
+      "event_id": "fresh-beast:38257:2025:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=38257; pixels=1; mean_negative_cp=0.534458; max_negative_cp=0.534458; max_negative_change=-0.034129",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2025
+    },
+    {
+      "area_ha": 0.36,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        49391
+      ],
+      "confidence": 0.6297917366027832,
+      "event_id": "fresh-beast:49391:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=49391; pixels=4; mean_negative_cp=0.589885; max_negative_cp=0.629792; max_negative_change=-0.061412",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 1.44,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        49391
+      ],
+      "confidence": 0.9606667757034302,
+      "event_id": "fresh-beast:49391:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=49391; pixels=16; mean_negative_cp=0.775576; max_negative_cp=0.960667; max_negative_change=-0.041985",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.18,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        50220
+      ],
+      "confidence": 0.6615833640098572,
+      "event_id": "fresh-beast:50220:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=50220; pixels=2; mean_negative_cp=0.631771; max_negative_cp=0.661583; max_negative_change=-0.055963",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.27,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        54735
+      ],
+      "confidence": 0.8419584035873413,
+      "event_id": "fresh-beast:54735:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=54735; pixels=3; mean_negative_cp=0.789028; max_negative_cp=0.841958; max_negative_change=-0.062822",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        54735
+      ],
+      "confidence": 0.5710417032241821,
+      "event_id": "fresh-beast:54735:2022:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=54735; pixels=1; mean_negative_cp=0.571042; max_negative_cp=0.571042; max_negative_change=-0.027843",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2022
+    },
+    {
+      "area_ha": 2.52,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        54735
+      ],
+      "confidence": 0.9823333621025085,
+      "event_id": "fresh-beast:54735:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=54735; pixels=28; mean_negative_cp=0.839421; max_negative_cp=0.982333; max_negative_change=-0.029871",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 2.9699999999999998,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        60271
+      ],
+      "confidence": 0.9861249923706055,
+      "event_id": "fresh-beast:60271:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=60271; pixels=33; mean_negative_cp=0.765585; max_negative_cp=0.986125; max_negative_change=-0.024458",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        60271
+      ],
+      "confidence": 0.8682500720024109,
+      "event_id": "fresh-beast:60271:2024:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=60271; pixels=1; mean_negative_cp=0.868250; max_negative_cp=0.868250; max_negative_change=-0.058471",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2024
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        74356
+      ],
+      "confidence": 0.5115000605583191,
+      "event_id": "fresh-beast:74356:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=74356; pixels=1; mean_negative_cp=0.511500; max_negative_cp=0.511500; max_negative_change=-0.095404",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        74356
+      ],
+      "confidence": 0.6046250462532043,
+      "event_id": "fresh-beast:74356:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=74356; pixels=1; mean_negative_cp=0.604625; max_negative_cp=0.604625; max_negative_change=-0.102813",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 5.13,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        74356
+      ],
+      "confidence": 0.9929584264755249,
+      "event_id": "fresh-beast:74356:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=74356; pixels=57; mean_negative_cp=0.815321; max_negative_cp=0.992958; max_negative_change=0.033267",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        74356
+      ],
+      "confidence": 0.5715000629425049,
+      "event_id": "fresh-beast:74356:2024:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=74356; pixels=1; mean_negative_cp=0.571500; max_negative_cp=0.571500; max_negative_change=-0.036588",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2024
+    },
+    {
+      "area_ha": 0.44999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        75276
+      ],
+      "confidence": 0.6310000419616699,
+      "event_id": "fresh-beast:75276:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=75276; pixels=5; mean_negative_cp=0.554958; max_negative_cp=0.631000; max_negative_change=-0.040200",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        75276
+      ],
+      "confidence": 0.5362500548362732,
+      "event_id": "fresh-beast:75276:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=75276; pixels=1; mean_negative_cp=0.536250; max_negative_cp=0.536250; max_negative_change=-0.042969",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 3.96,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        75276
+      ],
+      "confidence": 0.9825834035873413,
+      "event_id": "fresh-beast:75276:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=75276; pixels=44; mean_negative_cp=0.725476; max_negative_cp=0.982583; max_negative_change=-0.012008",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        77865
+      ],
+      "confidence": 0.6478333473205566,
+      "event_id": "fresh-beast:77865:2016:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=77865; pixels=1; mean_negative_cp=0.647833; max_negative_cp=0.647833; max_negative_change=-0.080248",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2016
+    },
+    {
+      "area_ha": 0.44999999999999996,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        77865
+      ],
+      "confidence": 0.8630833625793457,
+      "event_id": "fresh-beast:77865:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=77865; pixels=5; mean_negative_cp=0.640233; max_negative_cp=0.863083; max_negative_change=-0.051691",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        77865
+      ],
+      "confidence": 0.6848750114440918,
+      "event_id": "fresh-beast:77865:2020:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=77865; pixels=1; mean_negative_cp=0.684875; max_negative_cp=0.684875; max_negative_change=-0.025247",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2020
+    },
+    {
+      "area_ha": 0.18,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        77865
+      ],
+      "confidence": 0.6537083983421326,
+      "event_id": "fresh-beast:77865:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=77865; pixels=2; mean_negative_cp=0.597458; max_negative_cp=0.653708; max_negative_change=-0.080248",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 3.33,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        77865
+      ],
+      "confidence": 0.9645833969116211,
+      "event_id": "fresh-beast:77865:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=77865; pixels=37; mean_negative_cp=0.765533; max_negative_cp=0.964583; max_negative_change=-0.022068",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.27,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        77865
+      ],
+      "confidence": 0.7590000629425049,
+      "event_id": "fresh-beast:77865:2024:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=77865; pixels=3; mean_negative_cp=0.622639; max_negative_cp=0.759000; max_negative_change=-0.024353",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2024
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        81085
+      ],
+      "confidence": 0.5035833716392517,
+      "event_id": "fresh-beast:81085:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=81085; pixels=1; mean_negative_cp=0.503583; max_negative_cp=0.503583; max_negative_change=-0.002343",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        81085
+      ],
+      "confidence": 0.6721250414848328,
+      "event_id": "fresh-beast:81085:2019:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=81085; pixels=1; mean_negative_cp=0.672125; max_negative_cp=0.672125; max_negative_change=-0.082384",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2019
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        81085
+      ],
+      "confidence": 0.5220417380332947,
+      "event_id": "fresh-beast:81085:2021:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=81085; pixels=1; mean_negative_cp=0.522042; max_negative_cp=0.522042; max_negative_change=-0.065038",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2021
+    },
+    {
+      "area_ha": 2.6999999999999997,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        81085
+      ],
+      "confidence": 0.9445416927337646,
+      "event_id": "fresh-beast:81085:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=81085; pixels=30; mean_negative_cp=0.728513; max_negative_cp=0.944542; max_negative_change=-0.043958",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 4.32,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        85853
+      ],
+      "confidence": 0.984375,
+      "event_id": "fresh-beast:85853:2018:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=85853; pixels=48; mean_negative_cp=0.676750; max_negative_cp=0.984375; max_negative_change=-0.033038",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2018
+    },
+    {
+      "area_ha": 0.8999999999999999,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        85853
+      ],
+      "confidence": 0.9653750658035278,
+      "event_id": "fresh-beast:85853:2020:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=85853; pixels=10; mean_negative_cp=0.702425; max_negative_cp=0.965375; max_negative_change=-0.072336",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2020
+    },
+    {
+      "area_ha": 0.09,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        85853
+      ],
+      "confidence": 0.8068751096725464,
+      "event_id": "fresh-beast:85853:2022:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=85853; pixels=1; mean_negative_cp=0.806875; max_negative_cp=0.806875; max_negative_change=-0.033611",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2022
+    },
+    {
+      "area_ha": 8.01,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        85853
+      ],
+      "confidence": 0.9772917628288269,
+      "event_id": "fresh-beast:85853:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=85853; pixels=89; mean_negative_cp=0.752555; max_negative_cp=0.977292; max_negative_change=-0.012666",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    },
+    {
+      "area_ha": 0.27,
+      "attribution": "BEAST/Rbeast",
+      "attribution_method": "Rbeast harmonic changepoint probability, negative NBR trend",
+      "block_ids": [
+        85938
+      ],
+      "confidence": 0.968291699886322,
+      "event_id": "fresh-beast:85938:2023:neg-change",
+      "event_type": "partial_mortality",
+      "notes": "BEAST negative NBR changepoint; HLS 16-day composites; threshold=0.5; block=85938; pixels=3; mean_negative_cp=0.921389; max_negative_cp=0.968292; max_negative_change=-0.087909",
+      "retrieved_utc": "2026-10-27T23:00:49.941470+00:00",
+      "schema_version": "femic.disturbance.v1",
+      "severity_basis": "BEAST negative NBR changepoint; no published severity mapping",
+      "severity_class": "unknown",
+      "severity_value": null,
+      "source_id": "hls-beast-nsr",
+      "source_version": "fresh-beast 0.1.0a1",
+      "year": 2023
+    }
+  ],
+  "generated_utc": "2026-10-27T23:00:49.952451+00:00",
+  "method": {
+    "agent_attribution": null,
+    "algorithm": "BEAST",
+    "event_type": "partial_mortality",
+    "implementation": "Rbeast",
+    "min_consecutive_years": 1,
+    "min_valid_composites": 60,
+    "rbeast_version": "1.0.2",
+    "season": "harmonic",
+    "severity_mapping": null,
+    "signal": "negative NBR changepoint probability",
+    "threshold": 0.5,
+    "time_axis": "regular 16-day composites; annual period"
+  },
+  "schema_version": "fresh.beast.v1"
+}

@@ -1,0 +1,17 @@
+{
+  "source": "BC Pest Infestation Polygons (all years) / BC Geographic Warehouse historical archive",
+  "original_url": "https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+  "archived_url": "https://web.archive.org/web/20250515225452id_/https://pub.data.gov.bc.ca/datasets/450b67bb-02d5-4526-8bc0-ac7924125a1e/pest_infestation_poly.zip",
+  "archive_timestamp_utc": "2025-05-15T22:54:52Z",
+  "layer": "pest_infestation_poly",
+  "capture_year": 2024,
+  "pest_species_code": "IDW",
+  "pest_species_common_name": "Western Spruce Budworm",
+  "severity_code": "S",
+  "severity": "Severe",
+  "polygon_number": 154262024,
+  "polygon_area_ha": 28888.56,
+  "window_blocks": 20,
+  "window_blocks_with_label": 20,
+  "window_label_intersection_ha": 275.88513471
+}
