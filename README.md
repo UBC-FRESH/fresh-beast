@@ -18,6 +18,9 @@ package exposes the gap rather than inventing a coefficient.
 > 66.0% specificity). **Operational use is deferred**; the package remains an
 > exploratory overlay only.
 
+For the design rationale, integration boundaries, and the decision to defer
+operational use, see [`docs/why-and-integration.md`](docs/why-and-integration.md).
+
 ## What it does
 
 1. Searches and opens public HLS L30/S30 granules through NASA Earthdata
