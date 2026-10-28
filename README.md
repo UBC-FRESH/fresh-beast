@@ -15,7 +15,8 @@ package exposes the gap rather than inventing a coefficient.
 > Status: `0.1.0a1` alpha. The package has been exercised on a negative-control
 > block, a 20-block 2024 AOS-labelled cluster, and a 2019 ID6 case-control
 > sample. The case-control result failed at the 0.5 threshold (25.8% sensitivity,
-> 66.0% specificity); the package is not operational.
+> 66.0% specificity). **Operational use is deferred**; the package remains an
+> exploratory overlay only.
 
 ## What it does
 

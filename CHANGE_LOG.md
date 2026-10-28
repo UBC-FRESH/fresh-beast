@@ -19,4 +19,5 @@
 - Consumer tests against FEMIC's contract validator and WS4's event reader.
 - TSA 23 2019 ID6 case-control validation: 31 positive / 47 control blocks,
   3,876 pixels, 37 events. At 2018-2020 sensitivity is 25.8%, specificity
-  66.0%, precision 33.3%. The detector is not operational at 0.5.
+  66.0%, precision 33.3%. The detector is not operational at 0.5; DIS-02 is
+  deferred for operational use and retained as an exploratory overlay only.
